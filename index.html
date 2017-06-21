@@ -48,10 +48,11 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 <div id="bio_photo"><img style="border: 1px solid white;" src="kevin.jpg" align="left" height="300" /></div>
 <div id="profile">
 <span class="mh">Kevin Kai Zheng</span> <br>
-            
+            <span>Professor, PhD Supervisor</span>
             <br>
-            
-            
+            <div>教授，博士生导师</div>
+            <div>澳大利亚优秀青年基金获得者</div>
+			<div>中组部 “青年千人”</div>
 			<span><a href="https://scholar.google.com.au/citations?user=EM-l50cAAAAJ&hl=en">My Google Scholar Page</a></span> | 
 			<span><a href="http://dblp.uni-trier.de/pers/hd/z/Zheng:Kai">My DBLP Page</a></span>
 </div>
@@ -60,7 +61,7 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 <hr style="height: 3px;"> <br>
 <div id="description">
 <span style="font-size:110%">
-	Kai Zheng is a professors with the School of Computer Science and Technology at Soochow University since September 2016. He received his Ph.D. degree in Computer Science from The University of Queensland in 2012. He has worked as Postdoctoral Research Fellow (03/2012 - 01/2014) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (02/2014 - 08/2016) with the Data and Knowledge Engineering Group at The University of Queensland. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the Program co-Chair of the 18th Asia-Pacific Web Conference (2016, Suzhou), and Program Committee for a few top-tier conferences including ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. </div>
+	Kai Zheng is a professor with the School of Computer Science and Technology at Soochow University since September 2016. He received his Ph.D. degree in Computer Science from The University of Queensland in 2012. He has worked as Postdoctoral Research Fellow (03/2012 - 01/2014) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (02/2014 - 08/2016) with the Data and Knowledge Engineering Group at The University of Queensland. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the Program co-Chair of the 18th Asia-Pacific Web Conference (2016, Suzhou), and Program Committee for a few top-tier conferences including ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. </div>
 <br>
 
 <div id="journal">
@@ -84,21 +85,18 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 <div id="award">
       <span class="sb">Honors and Awards </span><br>      
       <ul>
-	  <li>Australia Research Council DECRA Fellowship, Jan 2014 - Dec 2016</li>
-
+	  <li>Thousand Youth Talents Plan Project, May, 2017 (中组部“青年千人”)</li>
+	  <li>ICDE 2015 Best Paper Award, Seoul, South Korea, April, 2015</li>
+	  <li>Australia Research Council Discovery Early Career Research Award, January, 2014 (澳大利亚优秀青年基金)</li>
+	  
       </ul>
 </div>
 <div id="service">
 	<span class="sb">Professional Services</span> <br>
 	<ul>
-	<li>PC member of ACM International Conference on Management of Data (SIGMOD 2016), San Francisco, USA, June, 2016. 
-<li>PC member of The 24th ACM International Conference on Information and Knowledge Management (CIKM 2015), Melbourne, Australia, 19-23 Oct, 2015
-<li>PC member of ACM International Conference on Management of Data (SIGMOD 2015), Melbourne, Australia, 31 May - 4 June, 2015.
-<li>PC member of The 20th International Conference on Database Systems for Advanced Applications (DASFAA 2015), Hanoi, Vietnam, April, 2015
-		<li>Program Co-chair of The First International Workshop on Human Mobility Computing (HuMoComp, held in conjuction with MDM 2013, Milan, Italy, 3-6 June, 2013). </li>
-		<li>Program Co-chair of The International Workshop on Big Data Management and Service (BDMS, held in conjunction with WAIM 2013, Beidaihe, China, 14-16 June, 2013). </li>
-		<li> PC member of The 18th International Conference on Database Systems for Advanced Applications (DASFAA 2013). </li>
-		
+	{% for item in site.data.service %}
+        <li> {{ item }} </li> 
+        {% endfor %}
 	</ul>
 </div>
 	  
