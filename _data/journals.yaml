@@ -1,6 +1,10 @@
-- "Guanfeng Liu, Kai Zheng, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
+- "Defu Lian, Kai Zheng*, Yong Ge, Longbing Cao, Enhong Chen, Xing Xie: 
+GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization. ACM Transactions on Information Systems (TOIS). (Accepted in Jan 2018)"
+- "Lei Li, Kai Zheng*, Sibo Wang, Xiaofang Zhou: 
+Go Slow to Go Fast: Minimal On-Road Time Route Scheduling with Parking Facilities Using Historical Trajectory. VLDB Journal. (Accepted in Jan 2018)"
+- "Guanfeng Liu, Kai Zheng*, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
 MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. IEEE Trans. Knowl. Data Eng. (Accepted in Dec 2017)"
-- "Bolong Zheng, Han Su, Wen Hua, Kai Zheng, Xiaofang Zhou, Guohui Li:
+- "Bolong Zheng, Han Su, Wen Hua, Kai Zheng*, Xiaofang Zhou, Guohui Li:
 Efficient Clue-Based Route Search on Road Networks. IEEE Trans. Knowl. Data Eng. 29(9): 1846-1859 (2017)"
 - "Binbin Gu, Zhixu Li, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou:
 The Interaction Between Schema Matching and Record Matching in Data Integration. IEEE Trans. Knowl. Data Eng. 29(1): 186-199 (2017)"
@@ -22,7 +26,7 @@ Discovering Urban Functional ZonesUsing Latent Activity Trajectories. IEEE Trans
 GFilter: A General Gram Filter for String Similarity Search. IEEE Trans. Knowl. Data Eng. 27(4): 1005-1018 (2015)"
 - "Shuo Shang, Kai Zheng, Christian S. Jensen, Bin Yang, Panos Kalnis, Guohe Li, Ji-Rong Wen:
 Discovery of Path Nearby Clusters in Spatial Networks. IEEE Trans. Knowl. Data Eng. 27(6): 1505-1518 (2015)"
-- "Han Su, Kai Zheng, Jiamin Huang, Haozhou Wang, Xiaofang Zhou:
+- "Han Su, Kai Zheng*, Jiamin Huang, Haozhou Wang, Xiaofang Zhou:
 Calibrating trajectory data for spatio-temporal similarity analysis. VLDB J. 24(1): 93-116 (2015)"
 - "Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang, Xiaofang Zhou:
 Online Discovery of Gathering Patterns over Trajectories. IEEE Trans. Knowl. Data Eng. 26(8): 1974-1988 (2014)"

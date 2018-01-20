@@ -15,7 +15,7 @@ overflow: auto;
 font-family: Times New Roman;
 position:absolute;
 width: 80%;
-font-size: 12px;
+font-size: 15px;
 line-height: 150%;
 left: 5px;
 top: 0px;
@@ -40,7 +40,7 @@ color: red;
 }
 
 #wrapper {overflow: auto}
-#bio_photo, #profile {float: left; margin-left:30px}
+#bio_photo, #profile {float: left; margin-left:10px}
 #logo {float: right;}
 
   </style>
@@ -49,10 +49,10 @@ color: red;
 <!--<script>window.location.href = "https://sites.google.com/site/kevinzheng1983/"</script>
 I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google site</a>.-->
 
-<!--<div id="wrapper">
-<div id="bio_photo"><img style="border: 1px solid white;" src="kevin.jpg" align="left" height="300" /></div>
-<div id="profile">-->
-<span class="mh">Kevin Kai Zheng (郑 凯)</span> <br>
+<div id="wrapper">
+<div id="bio_photo"><img style="border: 1px solid white;" src="kevin" align="left" height="200" /></div>
+<div id="profile">
+<span class="mh">Kevin Kai Zheng (郑 凯)</span> <br><br>
             <div>Professor, PhD Supervisor (教授，博士生导师)</div>
 	<div><a href="http://www.1000plan.org/en/young.html" target="_blank">Thousand Young Talent Plan of China </a> (中组部 “青年千人”)</div>
 	    <div><a href="http://www.arc.gov.au/discovery-early-career-researcher-award" target="_blank">Australian DECRA Fellow </a>(澳大利亚优秀青年基金获得者)</div>
@@ -60,16 +60,19 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 			<span><a href="https://scholar.google.com.au/citations?user=EM-l50cAAAAJ&hl=en">My Google Scholar Page</a></span> | 
       <span><a href="http://dblp.uni-trier.de/pers/hd/z/Zheng_0001:Kai">My DBLP Page</a></span> |
       <span><a href="http://faculty.uestc.edu.cn/zhengkai">My UESTC Homepage</a></span> 
-	<div>Email: zhengkai@uestc.edu.cn </div> 
-<br><br>
+  <div>Email: zhengkai@uestc.edu.cn </div> 
+  <div>Address: Qingshuihe Campus:No.2006, Xiyuan Ave, West Hi-Tech Zone, 611731 | Chengdu, Sichuan, P.R.China</div>
+</div></div>
+<br>
 
 <div id="description"> 
-  Kai Zheng is a full professor with <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> (UESTC). He received his Ph.D. degree in Computer Science from <a href="http://www.uq.edu.au/">The University of Queensland</a> in 2012. He has worked as Postdoctoral Research Fellow (2012 - 2013) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (2014 - 2016) with the Data and Knowledge Engineering Group at The University of Queensland. His research interests include spatio-temporal data management, mobile data mining and recommendation, novel location-based services and applications, as well as general computationally intensive database problems. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the General co-Chair of DASFAA 2017, Program co-Chair of APWeb 2016, and Program Committee for a few top-tier conferences including ICDE (2018), ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. Kai has published over 100 peer-reviewed papers, amongst which 47 papers appeared (or will appear) in top-tier conferences and journals in the area of data management. </div><br>
+    <span class="sb">Short Biography</span><br>
+  Dr. Kai Zheng is a full professor with <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> (UESTC). He received his Ph.D. degree in Computer Science from <a href="http://www.uq.edu.au/">The University of Queensland</a> in 2012. He has worked as Postdoctoral Research Fellow (2012 - 2013) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (2014 - 2016) with the Data and Knowledge Engineering Group at The University of Queensland. His research interests include spatio-temporal data management, mobile data mining and recommendation, novel location-based services and applications, as well as general computationally intensive database problems. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the General co-Chair of DASFAA 2017, Program co-Chair of APWeb 2016, and Program Committee for top-tier conferences including KDD (2018), IJCAI (2018), ICDE (2018), ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2018, 2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. Kai has published over 100 peer-reviewed papers, 54 of which appeared (or will appear) in top-tier conferences and journals in the area of Big Data and AI. </div><br>
   <div class="sb red">I am looking for highly motivated PhD students, Postdoctorals and Assistant Professors to conduct world-class research in my team. Please send your CV or enquiries to my email. </div>
 <br>
 
 <div id="journal">
-      <span class="sb">Selected Journal Papers</span><br>
+      <span class="sb">Selected Journal Papers (* Corresponding author)</span><br>
       <ol>
         {% for item in site.data.journals %}
         <li> {{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>"}} </li> 
@@ -78,7 +81,7 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 </div>
 
 <div id="conference">
-      <span class="sb">Selected Conference Papers</span><br>
+      <span class="sb">Selected Conference Papers (* Corresponding author)</span><br>
       <ol>
         {% for item in site.data.conferences %}
         <li> {{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>"}} </li> 
@@ -89,7 +92,7 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 <div id="award">
       <span class="sb">Honors and Awards </span><br>      
       <ul>
-    <li>Thousand Young Talent Plan of China, May, 2017 (中组部“青年千人”)</li>
+    <li><a href="http://www.1000plan.org/qrjh/article/69239" target="_blank">Thousand Young Talent Plan of China, May, 2017 (中组部“青年千人”)</a></li>
     <li>WISE 2017 Best Paper Award, Moscow, Russia, October, 2017</li>
     <li>WISE 2017 Best Student Paper Award, Moscow, Russia, October, 2017</li>
     <li>APWeb 2017 Best Paper Award, Beijing, China, July, 2017</li>
