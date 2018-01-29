@@ -1,66 +1,66 @@
-- "Yan Zhao, Yang Li, Yu Wang, Han Su, Kai Zheng*:
+- "[CIKM] Yan Zhao, Yang Li, Yu Wang, Han Su, Kai Zheng*:
 Destination-aware Task Assignment in Spatial Crowdsourcing. CIKM 2017: 297-306"
-- "Meng Hu, Zhixu Li, Yongxin Shen, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao:
+- "[CIKM] Meng Hu, Zhixu Li, Yongxin Shen, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao:
 CNN-IETS: A CNN-based Probabilistic Approach for Information Extraction by Text Segmentation. CIKM 2017: 1159-1168"
-- "Jiabao Sun, Jiajie Xu, Kai Zheng, Chengfei Liu:
+- "[CIKM] Jiabao Sun, Jiajie Xu, Kai Zheng, Chengfei Liu:
 Interactive Spatial Keyword Querying with Semantics. CIKM 2017: 1727-1736"
-- "Yu Liu, Bolong Zheng, Xiaodong He, Zhewei Wei, Xiaokui Xiao, Kai Zheng, Jiaheng Lu:
+- "[PVLDB] Yu Liu, Bolong Zheng, Xiaodong He, Zhewei Wei, Xiaokui Xiao, Kai Zheng, Jiaheng Lu:
 ProbeSim: Scalable Single-Source and Top-k SimRank Computations on Dynamic Graphs. PVLDB 11(1): 14-26 (2017)"
-- "Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Ziting Zhou, Kai Zheng*, Victor S. Sheng, Hui Xiong:
+- "[ICDM] Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Ziting Zhou, Kai Zheng*, Victor S. Sheng, Hui Xiong:
 Exploiting Hierarchical Structures for POI Recommendation. ICDM 2017"
-- "Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Victor S. Sheng, Kai Zheng*, Hui Xiong:
+- "[MM] Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Victor S. Sheng, Kai Zheng*, Hui Xiong:
 Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation. ACM Multimedia 2017"
-- "Defu Lian, Rui Liu, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao:
+- "[SIGKDD] Defu Lian, Rui Liu, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao:
 Discrete Content-aware Matrix Factorization. KDD 2017: 325-334"
-- "Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis:
+- "[PVLDB] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis:
 Trajectory Similarity Join in Spatial Networks. PVLDB 10(11): 1178-1189 (2017)"
-- "Huiwen Liu, Jiajie Xu, Kai Zheng*, Chengfei Liu, Lan Du, Xian Wu:
+- "[WSDM] Huiwen Liu, Jiajie Xu, Kai Zheng*, Chengfei Liu, Lan Du, Xian Wu:
 Semantic-aware Query Processing for Activity Trajectories. WSDM 2017: 283-292"
-- "Bolong Zheng, Kai Zheng*, Xiaokui Xiao, Han Su, Hongzhi Yin, Xiaofang Zhou, Guohui Li:
+- "[ICDE] Bolong Zheng, Kai Zheng*, Xiaokui Xiao, Han Su, Hongzhi Yin, Xiaofang Zhou, Guohui Li:
 Keyword-aware continuous kNN query on road networks. ICDE 2016: 871-882"
-- "Jiajun Liu, Kun Zhao, Brano Kusy, Ji-Rong Wen, Kai Zheng, Raja Jurdak:
+- "[ICDE] Jiajun Liu, Kun Zhao, Brano Kusy, Ji-Rong Wen, Kai Zheng, Raja Jurdak:
 Learning abstract snippet detectors with Temporal embedding in convolutional neural Networks. ICDE 2016: 895-905"
-- "Hongzhi Yin, Zhiting Hu, Xiaofang Zhou, Hao Wang, Kai Zheng, Nguyen Quoc Viet Hung, Shazia Wasim Sadiq:
+- "[ICDE] Hongzhi Yin, Zhiting Hu, Xiaofang Zhou, Hao Wang, Kai Zheng, Nguyen Quoc Viet Hung, Shazia Wasim Sadiq:
 Discovering interpretable geo-social communities for user behavior prediction. ICDE 2016: 942-953"
-- "Jialong Han, Kai Zheng, Aixin Sun, Shuo Shang, Ji-Rong Wen:
+- "[ICDE] Jialong Han, Kai Zheng, Aixin Sun, Shuo Shang, Ji-Rong Wen:
 Discovering Neighborhood Pattern Queries by sample answers in knowledge base. ICDE 2016: 1014-1025"
-- "Fuzheng Zhang, Nicholas Jing Yuan, Kai Zheng, Defu Lian, Xing Xie, Yong Rui:
+- "[WWW] Fuzheng Zhang, Nicholas Jing Yuan, Kai Zheng, Defu Lian, Xing Xie, Yong Rui:
 Exploiting Dining Preference for Restaurant Recommendation. WWW 2016: 725-735"
-- "Fuzheng Zhang, Nicholas Jing Yuan, Kai Zheng, Defu Lian, Xing Xie, Yong Rui:
+- "[UbiComp] Fuzheng Zhang, Nicholas Jing Yuan, Kai Zheng, Defu Lian, Xing Xie, Yong Rui:
 Mining consumer impulsivity from offline and online behavior. UbiComp 2015: 1281-1292"
-- "An Liu, Kai Zheng*, Lu Li, Guanfeng Liu, Lei Zhao, Xiaofang Zhou:
+- "[ICDE] An Liu, Kai Zheng*, Lu Li, Guanfeng Liu, Lei Zhao, Xiaofang Zhou:
 Efficient secure similarity computation on encrypted trajectory data. ICDE 2015: 66-77"
-- "Guanfeng Liu, Kai Zheng*, Yan Wang, Mehmet A. Orgun, An Liu, Lei Zhao, Xiaofang Zhou:
+- "[ICDE] Guanfeng Liu, Kai Zheng*, Yan Wang, Mehmet A. Orgun, An Liu, Lei Zhao, Xiaofang Zhou:
 Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs. ICDE 2015: 351-362"
-- "Kai Zheng, Han Su, Bolong Zheng, Shuo Shang, Jiajie Xu, Jiajun Liu, Xiaofang Zhou:
+- "[ICDE] Kai Zheng, Han Su, Bolong Zheng, Shuo Shang, Jiajie Xu, Jiajun Liu, Xiaofang Zhou:
 Interactive Top-k Spatial Keyword queries. ICDE 2015: 423-434"
-- "Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
+- "[ICDE] Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
 Short text understanding through lexical-semantic analysis. ICDE 2015: 495-506"
-- "Han Su, Kai Zheng*, Kai Zeng, Jiamin Huang, Shazia Wasim Sadiq, Nicholas Jing Yuan, Xiaofang Zhou:
+- "[ICDE] Han Su, Kai Zheng*, Kai Zeng, Jiamin Huang, Shazia Wasim Sadiq, Nicholas Jing Yuan, Xiaofang Zhou:
 Making sense of trajectory data: A partition-and-summarization approach. ICDE 2015: 963-974"
-- "Bolong Zheng, Nicholas Jing Yuan, Kai Zheng*, Xing Xie, Shazia Wasim Sadiq, Xiaofang Zhou:
+- "[ICDE] Bolong Zheng, Nicholas Jing Yuan, Kai Zheng*, Xing Xie, Shazia Wasim Sadiq, Xiaofang Zhou:
 Approximate keyword search in semantic trajectory database. ICDE 2015: 975-986"
-- "Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
+- "[SIGKDD] Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
 Modeling User Mobility for Location Promotion in Location-based Social Networks. KDD 2015: 1573-1582"
-- "Wen Hua, Kai Zheng*, Xiaofang Zhou:
+- "[SIGMOD] Wen Hua, Kai Zheng*, Xiaofang Zhou:
 Microblog Entity Linking with Social Temporal Context. SIGMOD Conference 2015: 1761-1775"
-- "Fuzheng Zhang, Kai Zheng, Nicholas Jing Yuan, Xing Xie, Enhong Chen, Xiaofang Zhou:
+- "[WWW] Fuzheng Zhang, Kai Zheng, Nicholas Jing Yuan, Xing Xie, Enhong Chen, Xiaofang Zhou:
 A Novelty-Seeking based Dining Recommender System. WWW 2015: 1362-1372"
-- "Haozhou Wang, Kai Zheng*, Jiajie Xu, Bolong Zheng, Xiaofang Zhou, Shazia Wasim Sadiq:
+- "[CIKM] Haozhou Wang, Kai Zheng*, Jiajie Xu, Bolong Zheng, Xiaofang Zhou, Shazia Wasim Sadiq:
 SharkDB: An In-Memory Column-Oriented Trajectory Storage. CIKM 2014: 1409-1418"
-- "Han Su, Kai Zheng*, Jiamin Huang, Hoyoung Jeung, Lei Chen, Xiaofang Zhou:
+- "[ICDE] Han Su, Kai Zheng*, Jiamin Huang, Hoyoung Jeung, Lei Chen, Xiaofang Zhou:
 CrowdPlanner: A crowd-based route recommendation system. ICDE 2014: 1144-1155"
-- "Kai Zheng, Shuo Shang, Nicholas Jing Yuan, Yi Yang:
+- "[ICDE] Kai Zheng, Shuo Shang, Nicholas Jing Yuan, Yi Yang:
 Towards efficient search for activity trajectories. ICDE 2013: 230-241"
-- "Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang:
+- "[ICDE] Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang:
 On discovery of gathering patterns from trajectories. ICDE 2013: 242-253"
-- "Han Su, Kai Zheng*, Haozhou Wang, Jiamin Huang, Xiaofang Zhou:
+- "[SIGMOD] Han Su, Kai Zheng*, Haozhou Wang, Jiamin Huang, Xiaofang Zhou:
 Calibrating trajectory data for similarity-based analysis. SIGMOD Conference 2013: 833-844"
-- "Shuo Shang, Ruogu Ding, Bo Yuan, Kexin Xie, Kai Zheng, Panos Kalnis:
+- "[EDBT] Shuo Shang, Ruogu Ding, Bo Yuan, Kexin Xie, Kai Zheng, Panos Kalnis:
 User oriented trajectory search for trip recommendation. EDBT 2012: 156-167"
-- "Kai Zheng, Yu Zheng, Xing Xie, Xiaofang Zhou:
+- "[ICDE] Kai Zheng, Yu Zheng, Xing Xie, Xiaofang Zhou:
 Reducing Uncertainty of Low-Sampling-Rate Trajectories. ICDE 2012: 1144-1155"
-- "Kai Zheng, Goce Trajcevski, Xiaofang Zhou, Peter Scheuermann:
+- "[EDBT] Kai Zheng, Goce Trajcevski, Xiaofang Zhou, Peter Scheuermann:
 Probabilistic range queries for uncertain trajectories on road networks. EDBT 2011: 283-294"
-- "Kai Zheng, Gabriel Pui Cheong Fung, Xiaofang Zhou:
+- "[SIGMOD] Kai Zheng, Gabriel Pui Cheong Fung, Xiaofang Zhou:
 K-nearest neighbor search for fuzzy objects. SIGMOD Conference 2010: 699-710"

@@ -1,42 +1,38 @@
-- "Defu Lian, Kai Zheng*, Yong Ge, Longbing Cao, Enhong Chen, Xing Xie: 
+- "[TOIS] Defu Lian, Kai Zheng*, Yong Ge, Longbing Cao, Enhong Chen, Xing Xie: 
 GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization. ACM Transactions on Information Systems (TOIS). (Accepted in Jan 2018)"
-- "Lei Li, Kai Zheng*, Sibo Wang, Xiaofang Zhou: 
+- "[VLDBJ] Lei Li, Kai Zheng*, Sibo Wang, Xiaofang Zhou: 
 Go Slow to Go Fast: Minimal On-Road Time Route Scheduling with Parking Facilities Using Historical Trajectory. VLDB Journal. (Accepted in Jan 2018)"
-- "Guanfeng Liu, Kai Zheng*, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
+- "[TKDE] Guanfeng Liu, Kai Zheng*, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
 MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. IEEE Trans. Knowl. Data Eng. (Accepted in Dec 2017)"
-- "Bolong Zheng, Han Su, Wen Hua, Kai Zheng*, Xiaofang Zhou, Guohui Li:
+- "[TKDE] Bolong Zheng, Han Su, Wen Hua, Kai Zheng*, Xiaofang Zhou, Guohui Li:
 Efficient Clue-Based Route Search on Road Networks. IEEE Trans. Knowl. Data Eng. 29(9): 1846-1859 (2017)"
-- "Binbin Gu, Zhixu Li, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou:
+- "[TKDE] Binbin Gu, Zhixu Li, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou:
 The Interaction Between Schema Matching and Record Matching in Data Integration. IEEE Trans. Knowl. Data Eng. 29(1): 186-199 (2017)"
-- "Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
+- "[TKDE] Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
 Understand Short Texts by Harvesting and Analyzing Semantic Knowledge. IEEE Trans. Knowl. Data Eng. 29(3): 499-512 (2017)"
-- "Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
+- "[TKDD] Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
 Exploiting Viral Marketing for Location Promotion in Location-Based Social Networks. TKDD 11(2): 25:1-25:28 (2016)"
-- "Xinhang Song, Shuqiang Jiang, Luis Herranz, Yan Kong, Kai Zheng:
+- "[PR] Xinhang Song, Shuqiang Jiang, Luis Herranz, Yan Kong, Kai Zheng:
 Category co-occurrence modeling for large scale scene recognition. Pattern Recognition 59: 98-111 (2016)"
-- "Wen Hua, Kai Zheng, Xiaofang Zhou:
-Quality-Aware Entity-Level Semantic Representations for Short Texts. IEEE Data Eng. Bull. 39(2): 93-105 (2016)"
-- "Hongzhi Yin, Xiaofang Zhou, Bin Cui, Hao Wang, Kai Zheng, Nguyen Quoc Viet Hung:
+- "[TKDE] Hongzhi Yin, Xiaofang Zhou, Bin Cui, Hao Wang, Kai Zheng, Nguyen Quoc Viet Hung:
 Adapting to User Interest Drift for POI Recommendation. IEEE Trans. Knowl. Data Eng. 28(10): 2566-2581 (2016)"
-- "Kai Zheng, Han Su:
-Go Beyond Raw Trajectory Data: Quality and Semantics. IEEE Data Eng. Bull. 38(2): 27-34 (2015)"
-- "Nicholas Jing Yuan, Yu Zheng, Xing Xie, Yingzi Wang, Kai Zheng, Hui Xiong:
+- "[TKDE] Nicholas Jing Yuan, Yu Zheng, Xing Xie, Yingzi Wang, Kai Zheng, Hui Xiong:
 Discovering Urban Functional ZonesUsing Latent Activity Trajectories. IEEE Trans. Knowl. Data Eng. 27(3): 712-725 (2015)"
-- "Haoji Hu, Kai Zheng, Xiaoling Wang, Aoying Zhou:
+- "[TKDE] Haoji Hu, Kai Zheng, Xiaoling Wang, Aoying Zhou:
 GFilter: A General Gram Filter for String Similarity Search. IEEE Trans. Knowl. Data Eng. 27(4): 1005-1018 (2015)"
-- "Shuo Shang, Kai Zheng, Christian S. Jensen, Bin Yang, Panos Kalnis, Guohe Li, Ji-Rong Wen:
+- "[TKDE] Shuo Shang, Kai Zheng, Christian S. Jensen, Bin Yang, Panos Kalnis, Guohe Li, Ji-Rong Wen:
 Discovery of Path Nearby Clusters in Spatial Networks. IEEE Trans. Knowl. Data Eng. 27(6): 1505-1518 (2015)"
-- "Han Su, Kai Zheng*, Jiamin Huang, Haozhou Wang, Xiaofang Zhou:
+- "[VLDBJ] Han Su, Kai Zheng*, Jiamin Huang, Haozhou Wang, Xiaofang Zhou:
 Calibrating trajectory data for spatio-temporal similarity analysis. VLDB J. 24(1): 93-116 (2015)"
-- "Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang, Xiaofang Zhou:
+- "[TKDE] Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang, Xiaofang Zhou:
 Online Discovery of Gathering Patterns over Trajectories. IEEE Trans. Knowl. Data Eng. 26(8): 1974-1988 (2014)"
-- "Shuo Shang, Ruogu Ding, Kai Zheng, Christian S. Jensen, Panos Kalnis, Xiaofang Zhou:
+- "[VLDBJ] Shuo Shang, Ruogu Ding, Kai Zheng, Christian S. Jensen, Panos Kalnis, Xiaofang Zhou:
 Personalized trajectory matching in spatial networks. VLDB J. 23(3): 449-468 (2014)"
-- "Zhigang Ma, Yi Yang, Nicu Sebe, Kai Zheng, Alexander G. Hauptmann:
+- "[TMM] Zhigang Ma, Yi Yang, Nicu Sebe, Kai Zheng, Alexander G. Hauptmann:
 Multimedia Event Detection Using A Classifier-Specific Intermediate Representation. IEEE Trans. Multimedia 15(7): 1628-1637 (2013)"
-- "Kai Zheng, Zi Huang, Aoying Zhou, Xiaofang Zhou:
+- "[TKDE] Kai Zheng, Zi Huang, Aoying Zhou, Xiaofang Zhou:
 Discovering the Most Influential Sites over Uncertain Data: A Rank-Based Approach. IEEE Trans. Knowl. Data Eng. 24(12): 2156-2169 (2012)"
-- "Kexin Xie, Ke Deng, Shuo Shang, Xiaofang Zhou, Kai Zheng:
+- "[TODS] Kexin Xie, Ke Deng, Shuo Shang, Xiaofang Zhou, Kai Zheng:
 Finding Alternative Shortest Paths in Spatial Networks. ACM Trans. Database Syst. 37(4): 29:1-29:31 (2012)"
-- "Kai Zheng, Xiaofang Zhou, Gabriel Pui Cheong Fung, Kexin Xie:
+- "[VLDBJ] Kai Zheng, Xiaofang Zhou, Gabriel Pui Cheong Fung, Kexin Xie:
 Spatial query processing for fuzzy objects. VLDB J. 21(5): 729-751 (2012)"
