@@ -6,7 +6,7 @@ title: Kai Zheng's Homepage
   
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <title>{{page.title}}</title> 
-  
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
   <style type="text/css">
 
 
@@ -41,6 +41,17 @@ color: red;
 #logo {float: right;}
 
   </style>
+  <script type="text/javascript">
+  
+  function showEnglishBio() {
+    $("#chinese_bio").hide();
+    $("#english_bio").show();
+  }
+  function showChineseBio() {
+    $("#chinese_bio").show();
+    $("#english_bio").hide();
+  }
+  </script>
 </head>
 <body id="main">
 <!--<script>window.location.href = "https://sites.google.com/site/kevinzheng1983/"</script>
@@ -63,11 +74,15 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 <br>
 
 <div id="description">     
-    <span class="sb">Short Biography</span><br>
-  Dr. Kai Zheng is a full professor with <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> (UESTC). He received Ph.D. (in 2012), Master (in 2009) and Bachelor (in 2006) degrees of Computer Science from <a href="http://www.uq.edu.au/">The University of Queensland (UQ)</a> (advised by <a href="http://staff.itee.uq.edu.au/zxf/">Prof Xiaofang Zhou</a>), <a href="http://www.fudan.edu.cn/en">Fudan University</a> (advised by <a href="http://english.ecnu.edu.cn/whouwoying/list.htm">Prof Aoying Zhou</a>) and <a href="http://en.tongji.edu.cn">Tongji University</a>, respectively. Before joining UESTC, he has worked as Research Fellow (2012 - 2013) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (2014 - 2016) with the Data and Knowledge Engineering Group of UQ. His research interests include spatio-temporal data management, mobile data mining and recommendation, novel location-based services and applications, as well as general computationally intensive database problems. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the General co-Chair of DASFAA 2017, Program co-Chair of APWeb 2016, and Program Committee for over 10 top-tier conferences including KDD (2018), IJCAI (2018), ICDE (2018), ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2018, 2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. He has published over 100 peer-reviewed papers, most of which appeared (or will appear) in top-tier conferences and journals in the area of Big Data and AI. 
+    <a href="#" class="sb" onclick="showEnglishBio()">Short Biography</a> | <a href="#" class="sb" onclick="showChineseBio()">中文简介</a><br>
+  <div id="english_bio" style="display: block"> Dr. Kai Zheng is a full professor with <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a> (UESTC). He received Ph.D. (in 2012), Master (in 2009) and Bachelor (in 2006) degrees of Computer Science from <a href="http://www.uq.edu.au/">The University of Queensland (UQ)</a> (advised by <a href="http://staff.itee.uq.edu.au/zxf/">Prof Xiaofang Zhou</a>), <a href="http://www.fudan.edu.cn/en">Fudan University</a> (advised by <a href="http://english.ecnu.edu.cn/whouwoying/list.htm">Prof Aoying Zhou</a>) and <a href="http://en.tongji.edu.cn">Tongji University</a>, respectively. Before joining UESTC, he has worked as Research Fellow (2012 - 2013) and ARC DECRA (Australian Research Council Discovery Early Career Research Award) Fellow (2014 - 2016) with the Data and Knowledge Engineering Group of UQ. His research interests include spatio-temporal data management, mobile data mining and recommendation, novel location-based services and applications, as well as general computationally intensive database problems. He was the winner of the Best Paper Award in ICDE (2015, South Korea) and Best Student Paper Award in Australian Database Conference (2014, Sydney). He served the General co-Chair of DASFAA 2017, Program co-Chair of APWeb 2016, and Program Committee for over 10 top-tier conferences including KDD (2018), IJCAI (2018), ICDE (2018), ACM SIGMOD (2016, 2015), ACM CIKM (2015, 2014), DASFAA (2018, 2015, 2013), etc. He is the guest editor for the Journal of WWW, Geoinformatica and Frontier of Computer Science. He has published over 100 peer-reviewed papers, most of which appeared (or will appear) in top-tier conferences and journals in the area of Big Data and AI. 
+    <div class="sb red">I am looking for highly motivated PhD students, Postdoctorals and Assistant Professors to conduct world-class research in my team. Please send your CV or enquiries to my email. </div>
+  </div>
+
+  <div id="chinese_bio" style="display:none"> 郑凯，电子科技大学教授，博士生导师，中组部“青年千人”。2012年博士毕业于澳大利亚昆士兰大学，2012-2016年在昆士兰大学信息与电子工程系担任研究员、讲师。主要研究领域为时空数据管理，不确定数据库， 内存数据库，图数据管理等。在数据库、数据挖掘等领域的重要会议和期刊发表论文100余篇，谷歌学术引用1500余次, H-index = 21。2013年获澳大利亚优秀青年基金，2015年获数据库顶级会议ICDE最佳论文奖。担任重要数据库国际会议的程序主席(APWeb 2016)和大会主席(DASFAA 2017)，担任国际SCI期刊WWW Journal、Geoinformatica、Frontier of Computer Science的客座编委，担任IEEE TKDE， VLDB Journal，ACM TODS等多个顶级数据库期刊的特邀评审和多个国际顶级会议的程序委员，如ACM SIGMOD (2015年，2016年)，CIKM (2014年，2015年)， ICDE (2018), WWW (2018), KDD (2018), IJCAI (2018)等。郑凯教授多年来致力于为企业，政府和个人应用提供智能数据管理、融合和分析的高效解决方案，曾主持多项澳大利亚和中国的自然科学基金，累计主持科研经费超过一千万人民币。与微软研究院，IBM研究院，美国AT&T，SAP研究院等多个一流企业研究机构长期保持紧密的合作关系。
+  <div class="sb red">郑凯教授常年招收有志于长期在大数据管理和人工智能领域进行国际前沿研究的全职博士生和博士后（提供极具竞争力的年薪和科研配套支持），根据申请人背景可在攻读期间派送至沙特国王科技大学、澳大利亚昆士兰大学、新加坡管理大学等知名高校进行联合培养，并提供奖学金支持。感兴趣者请发送个人学术简历至 zhengkai@uestc.edu.cn 。</div>
+  </div>
 </div>
-<br>
-  <div class="sb red">I am looking for highly motivated PhD students, Postdoctorals and Assistant Professors to conduct world-class research in my team. Please send your CV or enquiries to my email. </div>
 <br>
 
 <div id="journal">
