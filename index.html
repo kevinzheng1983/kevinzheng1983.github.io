@@ -144,7 +144,7 @@ I have moved to <a href="https://sites.google.com/site/kevinzheng1983/">Google s
 	<span class="sb">Professional Services</span> <br>
 	<ol>
 	{% for item in site.data.service %}
-        <li> {{ item }} </li> 
+        <li> {{ item | replace: "[", "<b>[" |replace: "]", "]</b>"}} </li> 
         {% endfor %}
 	</ol>
 </div>
