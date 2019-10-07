@@ -1,4 +1,6 @@
-- "[ICDE] Yan Zhao, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou, Kai Zheng*:
+- "[ICDE] Bolong Zheng, Chenze Huang, Christian S. Jensen, Lu Chen, Nguyen Quoc Viet Hung, Guanfeng Liu, Guohui Li, Kai Zheng*:
+  Online Trichromatic Pickup and Delivery Scheduling in Spatial Crowdsourcing. to appear in ICDE 2020, Dallas, Texas, USA"
+- "[ICDE] Yan Zhao, Kai Zheng*, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou:
   Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach. to appear in ICDE 2020, Dallas, Texas, USA"
 - "[ICDM] Huizhao Wang, Guanfeng Liu, Yan Zhao, Bolong Zheng, Pengpeng Zhao, Kai Zheng*:
   DMFP: A Dynamic Multi-faceted Fine-grained Preference Model for Recommendation. to appear in ICDM 2019, Beijing, China"
@@ -11,9 +13,9 @@ Profit-driven Task Assignment in Spatial Crowdsourcing. IJCAI 2019, Macau, China
 - "[IJCAI] Huizhao Wang, Guanfeng Liu, An Liu, Zhixu Li, Kai Zheng*:
 DMRAN:A Hierarchical Fine-Grained Attention-Based Network for Recommendation. IJCAI 2019, Macau, China"
 - "[KDD] Yue Cui, Liwei Deng, Yan Zhao, Vicent W. Zheng, Bin Yao, Kai Zheng*:
-Hidden POI Ranking with Spatial Crowdsourcing. SIGKDD 2019, Anchorage, Alaska"
+<a href='paper/kdd_2019_a.pdf'>Hidden POI Ranking with Spatial Crowdsourcing.</a> SIGKDD 2019, Anchorage, Alaska"
 - "[KDD] Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu and Kai Zheng:
-Origin-Destination Matrix Prediction via Graph Convolution: A New Perspective of Passenger Demand Modeling. SIGKDD 2019, Anchorage, Alaska"
+<a href='paper/kdd_2019_b.pdf'>Origin-Destination Matrix Prediction via Graph Convolution: A New Perspective of Passenger Demand Modeling.</a> SIGKDD 2019, Anchorage, Alaska"
 - "[AAAI] Yan Zhao, Jinfu Xia, Guanfeng Liu, Han Su, Defu Lian, Shuo Shang and Kai Zheng*: 
 Preference-aware Task Assignment in Spatial Crowdsourcing. AAAI 2019, Hawaiian, USA"
 - "[AAAI] Xiao-Yu Zhang, Haichao Shi, Changsheng Li, Xiaobin Zhu, Lixin Duan and Kai Zheng: 
@@ -23,11 +25,11 @@ Improving One-Class Collaborative Filtering via Ranking-based Implicit Regulariz
 - "[ICDE] Lisi Chen, Shuo Shang, Kai Zheng, Panos Kalnis:
 Cluster-based Subscription Matching for Geo-textual Data Streams. ICDE 2019, Macau, China"
 - "[ICDE] Hongzhi Yin, Qinyong Wang, Kai Zheng, Zhixu Li, Jiali Yang, Xiaofang Zhou:
-  Social Influence-based Group Representation Learning for Group Recommendation. ICDE 2019, Macau, China <b>(Best Paper Award)</b>"
+<a href='paper/icde_2019_a.pdf'>Social Influence-based Group Representation Learning for Group Recommendation.</a> ICDE 2019, Macau, China <b>(Best Paper Award)</b>"
 - "[KDD] Yan Zhao, Shuo Shang, Yu Wang, Bolong Zheng, Quoc Viet Hung Nguyen and Kai Zheng*: 
-REST: A Reference-based Framework for Spatio-temporal Trajectory Compression. KDD 2018: 2797-2806, London, UK"
+<a href='paper/kdd_2018_a.pdf'>REST: A Reference-based Framework for Spatio-temporal Trajectory Compression.</a> KDD 2018: 2797-2806, London, UK"
 - "[KDD] Defu Lian, Kai Zheng*, Vincent W. Zheng, Yong Ge, Longbing Cao, Ivor W. Tsang and Xing Xie: 
-High-order Proximity Preserving Information Network Hashing. KDD 2018: 1744-1753, London, UK"
+<a href='paper/kdd_2018_b.pdf'>High-order Proximity Preserving Information Network Hashing.</a> KDD 2018: 1744-1753, London, UK"
 - "[IJCAI] Zhongjian Lv, Jiajie Xu, Kai Zheng*, Hongzhi Yin, Pengpeng Zhao, Xiaofang Zhou: 
 LC-RNN: A Deep Learning Model for Traffic Speed Prediction. IJCAI 2018: 3470-3476, Stockholm, Sweden"
 - "[ICDE] Quoc Viet Hung Nguyen, Kai Zheng*, Matthias Weidlich, Bolong Zheng, Hongzhi Yin, Thanh Tam Nguyen, Bela Stantic:
