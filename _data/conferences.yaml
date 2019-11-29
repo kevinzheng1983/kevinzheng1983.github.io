@@ -31,9 +31,9 @@ Cluster-based Subscription Matching for Geo-textual Data Streams. ICDE 2019, Mac
 - "[KDD] Defu Lian, Kai Zheng*, Vincent W. Zheng, Yong Ge, Longbing Cao, Ivor W. Tsang and Xing Xie: 
 <a href='paper/kdd_2018_b.pdf'>High-order Proximity Preserving Information Network Hashing.</a> KDD 2018: 1744-1753, London, UK"
 - "[IJCAI] Zhongjian Lv, Jiajie Xu, Kai Zheng*, Hongzhi Yin, Pengpeng Zhao, Xiaofang Zhou: 
-LC-RNN: A Deep Learning Model for Traffic Speed Prediction. IJCAI 2018: 3470-3476, Stockholm, Sweden"
+<a href='paper/ijcai_2018_lv.pdf'>LC-RNN: A Deep Learning Model for Traffic Speed Prediction.</a> IJCAI 2018: 3470-3476, Stockholm, Sweden"
 - "[ICDE] Quoc Viet Hung Nguyen, Kai Zheng*, Matthias Weidlich, Bolong Zheng, Hongzhi Yin, Thanh Tam Nguyen, Bela Stantic:
-What-if Analysis with Conflicting Goals: Recommending Data Ranges for Exploration. ICDE 2018: 89-100, Paris, France"
+<a href='paper/icde_2018_hung.pdf'>What-if Analysis with Conflicting Goals: Recommending Data Ranges for Exploration.</a> ICDE 2018: 89-100, Paris, France"
 - "[CIKM] Yan Zhao, Yang Li, Yu Wang, Han Su, Kai Zheng*:
 Destination-aware Task Assignment in Spatial Crowdsourcing. CIKM 2017: 297-306"
 - "[CIKM] Meng Hu, Zhixu Li, Yongxin Shen, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao:
@@ -41,13 +41,13 @@ CNN-IETS: A CNN-based Probabilistic Approach for Information Extraction by Text 
 - "[CIKM] Jiabao Sun, Jiajie Xu, Kai Zheng, Chengfei Liu:
 Interactive Spatial Keyword Querying with Semantics. CIKM 2017: 1727-1736"
 - "[PVLDB] Yu Liu, Bolong Zheng, Xiaodong He, Zhewei Wei, Xiaokui Xiao, Kai Zheng, Jiaheng Lu:
-ProbeSim: Scalable Single-Source and Top-k SimRank Computations on Dynamic Graphs. PVLDB 11(1): 14-26 (2017)"
+<a href='paper/vldb_2017_liu.pdf'>ProbeSim: Scalable Single-Source and Top-k SimRank Computations on Dynamic Graphs.</a> PVLDB 11(1): 14-26 (2017)"
 - "[ICDM] Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Ziting Zhou, Kai Zheng*, Victor S. Sheng, Hui Xiong:
 Exploiting Hierarchical Structures for POI Recommendation. ICDM 2017"
 - "[ACM MM] Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Victor S. Sheng, Kai Zheng*, Hui Xiong:
-Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation. ACM Multimedia 2017"
-- "[SIGKDD] Defu Lian, Rui Liu, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao:
-Discrete Content-aware Matrix Factorization. KDD 2017: 325-334"
+<a href='paper/mm_2017_zhao.pdf'>Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation.</a> ACM Multimedia 2017"
+- "[KDD] Defu Lian, Rui Liu, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao:
+<a href='paper/kdd_2017_lian.pdf'>Discrete Content-aware Matrix Factorization.</a> KDD 2017: 325-334"
 - "[PVLDB] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis:
 Trajectory Similarity Join in Spatial Networks. PVLDB 10(11): 1178-1189 (2017)"
 - "[WSDM] Huiwen Liu, Jiajie Xu, Kai Zheng*, Chengfei Liu, Lan Du, Xian Wu:
@@ -69,7 +69,7 @@ Efficient secure similarity computation on encrypted trajectory data. ICDE 2015:
 - "[ICDE] Guanfeng Liu, Kai Zheng*, Yan Wang, Mehmet A. Orgun, An Liu, Lei Zhao, Xiaofang Zhou:
 Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs. ICDE 2015: 351-362"
 - "[ICDE] Kai Zheng, Han Su, Bolong Zheng, Shuo Shang, Jiajie Xu, Jiajun Liu, Xiaofang Zhou:
-Interactive Top-k Spatial Keyword queries. ICDE 2015: 423-434"
+<a href='paper/icde_2015_zheng.pdf'>Interactive Top-k Spatial Keyword queries.</a> ICDE 2015: 423-434"
 - "[ICDE] Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
 Short text understanding through lexical-semantic analysis. ICDE 2015: 495-506 <b>(Best Paper Award)</b>"
 - "[ICDE] Han Su, Kai Zheng*, Kai Zeng, Jiamin Huang, Shazia Wasim Sadiq, Nicholas Jing Yuan, Xiaofang Zhou:

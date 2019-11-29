@@ -5,25 +5,25 @@
 - "[VLDBJ] Han Su, Shuncheng Liu, Bolong Zheng, Xiaofang Zhou, Kai Zheng*:
 <a href='paper/vldbj_2019.pdf'>A Survey of Trajectory Distance Measures and Performance Evaluation.</a> VLDB Journal. (Accepted in Aug 2019)"
 - "[TKDE] Yan Zhao, Kai Zheng*, Yang Li, Han Su, Jiajun Liu, Xiaofang Zhou:
-Destination-aware Task Assignment in Spatial Crowdsourcing: A Worker Decomposition Approach. IEEE Trans. Knowl. Data Eng. (Accepted in June 2019)"
+<a href='paper/tkde_2019_zhao.pdf'>Destination-aware Task Assignment in Spatial Crowdsourcing: A Worker Decomposition Approach.</a> IEEE Trans. Knowl. Data Eng. (Accepted in June 2019)"
 - "[TNNLS] Changsheng Li, Chong Liu, Lixin Duan, Peng Gao, Kai Zheng:
 Reconstruction Regularized Deep Metric Learning  for Multi-label Image Classification. IEEE Transactions on Neural Networks and Learning Systems. (Accepted in June 2019)"
 - "[TKDE] Kai Zheng, Yan Zhao, Defu Lian, Bolong Zheng, Guanfeng Liu, Xiaofang Zhou:
-Reference-based Framework for Spatio-temporal Trajectory Compression and Query Processing. IEEE Trans. Knowl. Data Eng. (Accepted in April 2019)"
+<a href='paper/tkde_2019_zheng.pdf'>Reference-based Framework for Spatio-temporal Trajectory Compression and Query Processing.</a> IEEE Trans. Knowl. Data Eng. (Accepted in April 2019)"
 - "[TKDE] Shuo Shang, Lisi Chen, Kai Zheng*, Christian S. Jensen, Zhewei Wei, Panos Kalnis:
 Parallel Trajectory-to-Location Join. IEEE Trans. Knowl. Data Eng. 31(6): 1194-1207 (2019)"
 - "[TOIS] Defu Lian, Kai Zheng*, Yong Ge, Longbing Cao, Enhong Chen, Xing Xie: 
-GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization. ACM Trans. Inf. Syst. 36(3): 33:1-33:29 (2018)"
+<a href='paper/tois_2018_lian.pdf'>GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization.</a> ACM Trans. Inf. Syst. 36(3): 33:1-33:29 (2018)"
 - "[VLDBJ] Lei Li, Kai Zheng*, Sibo Wang, Xiaofang Zhou: 
-Go Slow to Go Fast: Minimal On-Road Time Route Scheduling with Parking Facilities Using Historical Trajectory. VLDB J. 27(3): 321-345 (2018)"
+<a href='paper/vldbj_2018_li.pdf'>Go Slow to Go Fast: Minimal On-Road Time Route Scheduling with Parking Facilities Using Historical Trajectory.</a> VLDB J. 27(3): 321-345 (2018)"
 - "[TKDE] Guanfeng Liu, Kai Zheng*, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
 MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. IEEE Trans. Knowl. Data Eng. 30(6): 1050-1064 (2018)"
 - "[VLDBJ] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis: 
 Parallel trajectory similarity joins in spatial networks. VLDB J. 27(3): 395-420 (2018)"
 - "[TKDE] Bolong Zheng, Han Su, Wen Hua, Kai Zheng*, Xiaofang Zhou, Guohui Li:
-Efficient Clue-Based Route Search on Road Networks. IEEE Trans. Knowl. Data Eng. 29(9): 1846-1859 (2017)"
+<a href='paper/tkde_2017_zheng.pdf'>Efficient Clue-Based Route Search on Road Networks.</a> IEEE Trans. Knowl. Data Eng. 29(9): 1846-1859 (2017)"
 - "[TKDE] Binbin Gu, Zhixu Li, Xiangliang Zhang, An Liu, Guanfeng Liu, Kai Zheng, Lei Zhao, Xiaofang Zhou:
-The Interaction Between Schema Matching and Record Matching in Data Integration. IEEE Trans. Knowl. Data Eng. 29(1): 186-199 (2017)"
+<a href='paper/tkde_2017_gu.pdf'>The Interaction Between Schema Matching and Record Matching in Data Integration.</a> IEEE Trans. Knowl. Data Eng. 29(1): 186-199 (2017)"
 - "[TKDE] Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
 Understand Short Texts by Harvesting and Analyzing Semantic Knowledge. IEEE Trans. Knowl. Data Eng. 29(3): 499-512 (2017)"
 - "[TKDD] Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
