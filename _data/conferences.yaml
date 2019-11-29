@@ -71,9 +71,9 @@ Multi-Constrained Graph Pattern Matching in large-scale contextual social graphs
 - "[ICDE] Kai Zheng, Han Su, Bolong Zheng, Shuo Shang, Jiajie Xu, Jiajun Liu, Xiaofang Zhou:
 <a href='paper/icde_2015_zheng.pdf'>Interactive Top-k Spatial Keyword queries.</a> ICDE 2015: 423-434"
 - "[ICDE] Wen Hua, Zhongyuan Wang, Haixun Wang, Kai Zheng, Xiaofang Zhou:
-Short text understanding through lexical-semantic analysis. ICDE 2015: 495-506 <b>(Best Paper Award)</b>"
+<a href='paper/icde_2015_hua.pdf'>Short text understanding through lexical-semantic analysis.</a> ICDE 2015: 495-506 <b>(Best Paper Award)</b>"
 - "[ICDE] Han Su, Kai Zheng*, Kai Zeng, Jiamin Huang, Shazia Wasim Sadiq, Nicholas Jing Yuan, Xiaofang Zhou:
-Making sense of trajectory data: A partition-and-summarization approach. ICDE 2015: 963-974"
+<a href='paper/icde_2015_su.pdf'>Making sense of trajectory data: A partition-and-summarization approach.</a> ICDE 2015: 963-974"
 - "[ICDE] Bolong Zheng, Nicholas Jing Yuan, Kai Zheng*, Xing Xie, Shazia Wasim Sadiq, Xiaofang Zhou:
 Approximate keyword search in semantic trajectory database. ICDE 2015: 975-986"
 - "[SIGKDD] Wen-Yuan Zhu, Wen-Chih Peng, Ling-Jyh Chen, Kai Zheng, Xiaofang Zhou:
@@ -85,18 +85,18 @@ A Novelty-Seeking based Dining Recommender System. WWW 2015: 1362-1372"
 - "[CIKM] Haozhou Wang, Kai Zheng*, Jiajie Xu, Bolong Zheng, Xiaofang Zhou, Shazia Wasim Sadiq:
 SharkDB: An In-Memory Column-Oriented Trajectory Storage. CIKM 2014: 1409-1418"
 - "[ICDE] Han Su, Kai Zheng*, Jiamin Huang, Hoyoung Jeung, Lei Chen, Xiaofang Zhou:
-CrowdPlanner: A crowd-based route recommendation system. ICDE 2014: 1144-1155"
+<a href='paper/icde_2014_su.pdf'>CrowdPlanner: A crowd-based route recommendation system.</a> ICDE 2014: 1144-1155"
 - "[ICDE] Kai Zheng, Shuo Shang, Nicholas Jing Yuan, Yi Yang:
-Towards efficient search for activity trajectories. ICDE 2013: 230-241"
+<a href='paper/icde_2013_zheng_a.pdf'>Towards efficient search for activity trajectories.</a> ICDE 2013: 230-241"
 - "[ICDE] Kai Zheng, Yu Zheng, Nicholas Jing Yuan, Shuo Shang:
-On discovery of gathering patterns from trajectories. ICDE 2013: 242-253"
+<a href='paper/icde_2013_zheng_b.pdf'>On discovery of gathering patterns from trajectories.</a> ICDE 2013: 242-253"
 - "[SIGMOD] Han Su, Kai Zheng*, Haozhou Wang, Jiamin Huang, Xiaofang Zhou:
-Calibrating trajectory data for similarity-based analysis. SIGMOD Conference 2013: 833-844"
+<a href='paper/sigmod_2013_su.pdf'>Calibrating trajectory data for similarity-based analysis.</a> SIGMOD Conference 2013: 833-844"
 - "[EDBT] Shuo Shang, Ruogu Ding, Bo Yuan, Kexin Xie, Kai Zheng, Panos Kalnis:
 User oriented trajectory search for trip recommendation. EDBT 2012: 156-167"
 - "[ICDE] Kai Zheng, Yu Zheng, Xing Xie, Xiaofang Zhou:
-Reducing Uncertainty of Low-Sampling-Rate Trajectories. ICDE 2012: 1144-1155"
+<a href='paper/icde_2012_zheng.pdf'>Reducing Uncertainty of Low-Sampling-Rate Trajectories.</a> ICDE 2012: 1144-1155"
 - "[EDBT] Kai Zheng, Goce Trajcevski, Xiaofang Zhou, Peter Scheuermann:
-Probabilistic range queries for uncertain trajectories on road networks. EDBT 2011: 283-294"
+<a href='paper/edbt_2011_zheng.pdf'>Probabilistic range queries for uncertain trajectories on road networks.</a> EDBT 2011: 283-294"
 - "[SIGMOD] Kai Zheng, Gabriel Pui Cheong Fung, Xiaofang Zhou:
-K-nearest neighbor search for fuzzy objects. SIGMOD Conference 2010: 699-710"
+<a href='paper/sigmod_2010_zheng.pdf'>K-nearest neighbor search for fuzzy objects.</a> SIGMOD Conference 2010: 699-710"
