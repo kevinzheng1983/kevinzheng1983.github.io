@@ -19,7 +19,7 @@ Parallel Trajectory-to-Location Join. IEEE Trans. Knowl. Data Eng. 31(6): 1194-1
 - "[VLDBJ] Lei Li, Kai Zheng*, Sibo Wang, Xiaofang Zhou: 
 <a href='paper/vldbj_2018_li.pdf'>Go Slow to Go Fast: Minimal On-Road Time Route Scheduling with Parking Facilities Using Historical Trajectory.</a> VLDB J. 27(3): 321-345 (2018)"
 - "[TKDE] Guanfeng Liu, Kai Zheng*, An Liu, Zhixu Li, Yan Wang, Xiaofang Zhou:
-MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs. IEEE Trans. Knowl. Data Eng. 30(6): 1050-1064 (2018)"
+<a href='paper/tkde_2018_liu.pdf'>MCS-GPM: Multi-Constrained Simulation Based Graph Pattern Matching in Contextual Social Graphs.</a> IEEE Trans. Knowl. Data Eng. 30(6): 1050-1064 (2018)"
 - "[VLDBJ] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis: 
 Parallel trajectory similarity joins in spatial networks. VLDB J. 27(3): 395-420 (2018)"
 - "[TKDE] Bolong Zheng, Han Su, Wen Hua, Kai Zheng*, Xiaofang Zhou, Guohui Li:
