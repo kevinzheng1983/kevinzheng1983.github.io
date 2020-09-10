@@ -1,37 +1,37 @@
 - "[CIKM] Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang and Kai Zheng*:
   <a href='paper/cikm_2020_sun.pdf'>Multi-modal Knowledge Graphs for Recommender Systems.</a> CIKM 2020, Online"
 - "[ICDE] Bolong Zheng, Chenze Huang, Christian S. Jensen, Lu Chen, Nguyen Quoc Viet Hung, Guanfeng Liu, Guohui Li, Kai Zheng*:
-  <a href='paper/icde_2020_zheng.pdf'>Online Trichromatic Pickup and Delivery Scheduling in Spatial Crowdsourcing.</a> ICDE 2020, Dallas, Texas, USA"
+  <a href='paper/icde_2020_zheng.pdf'>Online Trichromatic Pickup and Delivery Scheduling in Spatial Crowdsourcing.</a> ICDE 2020: 13-24, Dallas, Texas, USA"
 - "[ICDE] Yan Zhao, Kai Zheng*, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou:
-  <a href='paper/icde_2020_zhao.pdf'>Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach.</a> ICDE 2020, Dallas, Texas, USA"
+  <a href='paper/icde_2020_zhao.pdf'>Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach.</a> ICDE 2020: 973-984, Dallas, Texas, USA"
 - "[IJCAI] Kangzhi Zhao, Yong Zhang, Hongzhi Yin, Jin Wang, Kai Zheng, Xiaofang Zhou, and Chunxiao Xing:
    Discovering Subsequence Patterns for Next POI Recommendation. IJCAI 2020, Yokohama, Japan"
 - "[IJCAI] Hongmin Zhu, Fuli Feng, Xiangnan He, Xiang Wang, Yan Li, Kai Zheng, Yongdong Zhang:
    Bilinear Graph Neural Network with Neighbor Interactions. IJCAI 2020, Yokohama, Japan"
 - "[ICDM] Huizhao Wang, Guanfeng Liu, Yan Zhao, Bolong Zheng, Pengpeng Zhao, Kai Zheng*:
-  <a href='paper/icdm_2019_a.pdf'>DMFP: A Dynamic Multi-faceted Fine-grained Preference Model for Recommendation.</a>ICDM 2019, Beijing, China"
+  <a href='paper/icdm_2019_a.pdf'>DMFP: A Dynamic Multi-faceted Fine-grained Preference Model for Recommendation.</a>ICDM 2019: 608-617, Beijing, China"
 - "[ICDM] Pengfei Ding, Guanfeng Liu, Pengpeng Zhao, An Liu, Zhixu Li, Kai Zheng*:
-  <a href='paper/icdm_2019_b.pdf'>Reinforcement Learning Based Monte Carlo Tree Search for Temporal Path Discovery.</a>ICDM 2019, Beijing, China"
+  <a href='paper/icdm_2019_b.pdf'>Reinforcement Learning Based Monte Carlo Tree Search for Temporal Path Discovery.</a>ICDM 2019: 140-149, Beijing, China"
 - "[CIKM] Han Su, Guanglin Cong, Wei Chen, Bolong Zheng, Kai Zheng*:
-  <a href='paper/cikm_2019.pdf'>Personalized Route Description Based on Historical Trajectories.</a> CIKM 2019, Beijing, China"
+  <a href='paper/cikm_2019.pdf'>Personalized Route Description Based on Historical Trajectories.</a> CIKM 2019: 79-88, Beijing, China"
 - "[IJCAI] Jinfu Xia, Yan Zhao, Guanfeng Liu, Jiajie Xu, Min Zhang, Kai Zheng*:
-  <a href='paper/ijcai_2019_a.pdf'>Profit-driven Task Assignment in Spatial Crowdsourcing.</a> IJCAI 2019, Macau, China"
+  <a href='paper/ijcai_2019_a.pdf'>Profit-driven Task Assignment in Spatial Crowdsourcing.</a> IJCAI 2019: 1914-1920, Macau, China"
 - "[IJCAI] Huizhao Wang, Guanfeng Liu, An Liu, Zhixu Li, Kai Zheng*:
-  <a href='paper/ijcai_2019_b.pdf'>DMRAN:A Hierarchical Fine-Grained Attention-Based Network for Recommendation.</a> IJCAI 2019, Macau, China"
+  <a href='paper/ijcai_2019_b.pdf'>DMRAN:A Hierarchical Fine-Grained Attention-Based Network for Recommendation.</a> IJCAI 2019: 3698-3704, Macau, China"
 - "[KDD] Yue Cui, Liwei Deng, Yan Zhao, Vicent W. Zheng, Bin Yao, Kai Zheng*:
-<a href='paper/kdd_2019_a.pdf'>Hidden POI Ranking with Spatial Crowdsourcing.</a> SIGKDD 2019, Anchorage, Alaska"
+<a href='paper/kdd_2019_a.pdf'>Hidden POI Ranking with Spatial Crowdsourcing.</a> SIGKDD 2019: 814-824, Anchorage, Alaska"
 - "[KDD] Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu and Kai Zheng:
-<a href='paper/kdd_2019_b.pdf'>Origin-Destination Matrix Prediction via Graph Convolution: A New Perspective of Passenger Demand Modeling.</a> SIGKDD 2019, Anchorage, Alaska"
+<a href='paper/kdd_2019_b.pdf'>Origin-Destination Matrix Prediction via Graph Convolution: A New Perspective of Passenger Demand Modeling.</a> SIGKDD 2019: 1227-1235, Anchorage, Alaska"
 - "[AAAI] Yan Zhao, Jinfu Xia, Guanfeng Liu, Han Su, Defu Lian, Shuo Shang and Kai Zheng*: 
-Preference-aware Task Assignment in Spatial Crowdsourcing. AAAI 2019, Hawaiian, USA"
-- "[AAAI] Xiao-Yu Zhang, Haichao Shi, Changsheng Li, Xiaobin Zhu, Lixin Duan and Kai Zheng: 
-Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision. AAAI 2019, Hawaiian, USA"
+Preference-aware Task Assignment in Spatial Crowdsourcing. AAAI 2019: 2629-2636, Hawaiian, USA"
+- "[AAAI] Xiao-Yu Zhang, Haichao Shi, Changsheng Li, Kai Zheng, Xiaobin Zhu, Lixin Duan: 
+Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision. AAAI 2019: 9227-9234, Hawaiian, USA"
 - "[AAAI] Jin Chen, Defu Lian, Kai Zheng: 
-<a href='paper/aaai_2019_chen.pdf'>Improving One-Class Collaborative Filtering via Ranking-based Implicit Regularizer.</a> AAAI 2019, Hawaiian, USA"
+<a href='paper/aaai_2019_chen.pdf'>Improving One-Class Collaborative Filtering via Ranking-based Implicit Regularizer.</a> AAAI 2019: 37-44, Hawaiian, USA"
 - "[ICDE] Lisi Chen, Shuo Shang, Kai Zheng, Panos Kalnis:
-Cluster-based Subscription Matching for Geo-textual Data Streams. ICDE 2019, Macau, China"
+Cluster-based Subscription Matching for Geo-textual Data Streams. ICDE 2019: 890-901, Macau, China"
 - "[ICDE] Hongzhi Yin, Qinyong Wang, Kai Zheng, Zhixu Li, Jiali Yang, Xiaofang Zhou:
-<a href='paper/icde_2019_a.pdf'>Social Influence-based Group Representation Learning for Group Recommendation.</a> ICDE 2019, Macau, China <b>(Best Paper Award)</b>"
+<a href='paper/icde_2019_a.pdf'>Social Influence-based Group Representation Learning for Group Recommendation.</a> ICDE 2019: 566-577, Macau, China <b>(Best Paper Award)</b>"
 - "[KDD] Yan Zhao, Shuo Shang, Yu Wang, Bolong Zheng, Quoc Viet Hung Nguyen and Kai Zheng*: 
 <a href='paper/kdd_2018_a.pdf'>REST: A Reference-based Framework for Spatio-temporal Trajectory Compression.</a> KDD 2018: 2797-2806, London, UK"
 - "[KDD] Defu Lian, Kai Zheng*, Vincent W. Zheng, Yong Ge, Longbing Cao, Ivor W. Tsang and Xing Xie: 
