@@ -1,3 +1,5 @@
+- "[TKDE] Pengpeng Zhao, Chengfeng Xu, Yanchi Liu, Victor Sheng, Kai Zheng, Hui Xiong, Xiaofang Zhou:
+  <a href='paper/tkde_2021_pengpeng.pdf'>Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation.</a> IEEE Transactions on Knowledge and Data Engineering 33(4):1708-1721 (2021)"
 - "[TKDE] Xuanhao Chen, Yan Zhao, Guanfeng Liu, Rui Sun, Xiaofang Zhou, Kai Zheng*:
   <a href='paper/tkde_2021_chen.pdf'>Efficient Similarity-aware Influence Maximization in Geo-social Network.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in December 2020)"
 - "[IS] Jin Chen, Defu Lian, Kai Zheng:
@@ -8,8 +10,8 @@
   <a href='paper/tkde_2020_zhao.pdf'>Preference-aware Task Assignment in Spatial Crowdsourcing: from Individuals to Groups.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in August 2020)"
 - "[TKDE] Meng Chen, Yan Zhao, Xiaohui Yu, Kai Zheng*:
   <a href='paper/tkde_2020_chen.pdf'>Modeling Spatial Trajectories with Attribute Representation Learning.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Jun 2020)"
-# - "[TKDE] Bin Wu, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng, Yangdong Ye:
-#   Modeling Product's Visual and Functional Characteristics for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (Accepted in Apr 2020)"
+- "[TKDE] Bin Wu, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng, Yangdong Ye:
+  Modeling Product's Visual and Functional Characteristics for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (Accepted in Apr 2020)"
 - "[TITS] Meng Chen, Yixuan Zuo, Xiaoyi Jia, Yang Liu, Xiaohui Yu, Kai Zheng:
   <a href='paper/tits_2020_chen.pdf'>CEM: A Convolutional Embedding Model for Predicting Next Locations.</a> IEEE Transactions on Intelligent Transportation Systems (Accepted in March 2020)"
 - "[TKDE] Bolong Zheng, Kai Zheng*, Christian S. Jensen, Nguyen Quoc Viet Hung, Han Su, Guohui Li, Xiaofang Zhou:
@@ -20,8 +22,6 @@
   <a href='paper/tds_2020_zheng.pdf'>Searching Activity Trajectories by Exemplar.</a> ACM/IMS Transactions on Data Science 1(3) (2020)"
 - "[TKDE] Junhua Fang, Rong Zhang, Yan Zhao, Kai Zheng*, Xiaofang Zhou, Aoying Zhou:
   <a href='paper/tkde_2019_fang.pdf'>A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Oct 2019)"
-- "[TKDE] Pengpeng Zhao, Chengfeng Xu, Yanchi Liu, Victor Sheng, Kai Zheng, Hui Xiong, Xiaofang Zhou:
-  Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation. IEEE Transactions on Knowledge and Data Engineering (Accepted in Oct 2019)"
 - "[VLDBJ] Han Su, Shuncheng Liu, Bolong Zheng, Xiaofang Zhou, Kai Zheng*:
 <a href='paper/vldbj_2019.pdf'>A Survey of Trajectory Distance Measures and Performance Evaluation.</a>  VLDB Journal 29(1): 3-32 (2020)"
 - "[TKDE] Yan Zhao, Kai Zheng*, Yang Li, Han Su, Jiajun Liu, Xiaofang Zhou:
