@@ -1,3 +1,5 @@
+- "[VLDB] Yue Cui, Kai Zheng*, Dingshan Cui, Jiandong Xie, Liwei Deng, Feiteng Huang and Xiaofang Zhou:
+  METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting. VLDB 2022, Sydney, Australia"
 - "[CIKM] Yue Cui, Chen Zhu, Guanyu Ye, Ziwei Wang and Kai Zheng*:
   <a href='paper/cikm_2021_cui.pdf'>Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19 Prediction.</a> CIKM 2021 (online)"
 - "[CIKM] Zhi Xu, Shuncheng Liu, Ziniu Wu, Xu Chen, Kai Zeng, Kai Zheng* and Han Su*:
@@ -70,7 +72,7 @@ Destination-aware Task Assignment in Spatial Crowdsourcing. CIKM 2017: 297-306"
 CNN-IETS: A CNN-based Probabilistic Approach for Information Extraction by Text Segmentation. CIKM 2017: 1159-1168"
 - "[CIKM] Jiabao Sun, Jiajie Xu, Kai Zheng, Chengfei Liu:
 Interactive Spatial Keyword Querying with Semantics. CIKM 2017: 1727-1736"
-- "[PVLDB] Yu Liu, Bolong Zheng, Xiaodong He, Zhewei Wei, Xiaokui Xiao, Kai Zheng, Jiaheng Lu:
+- "[VLDB] Yu Liu, Bolong Zheng, Xiaodong He, Zhewei Wei, Xiaokui Xiao, Kai Zheng, Jiaheng Lu:
 <a href='paper/vldb_2017_liu.pdf'>ProbeSim: Scalable Single-Source and Top-k SimRank Computations on Dynamic Graphs.</a> PVLDB 11(1): 14-26 (2017)"
 - "[ICDM] Pengpeng Zhao, Xiefeng Xu, Yanchi Liu, Ziting Zhou, Kai Zheng*, Victor S. Sheng, Hui Xiong:
 Exploiting Hierarchical Structures for POI Recommendation. ICDM 2017"
@@ -78,7 +80,7 @@ Exploiting Hierarchical Structures for POI Recommendation. ICDM 2017"
 <a href='paper/mm_2017_zhao.pdf'>Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation.</a> ACM Multimedia 2017"
 - "[KDD] Defu Lian, Rui Liu, Yong Ge, Kai Zheng, Xing Xie, Longbing Cao:
 <a href='paper/kdd_2017_lian.pdf'>Discrete Content-aware Matrix Factorization.</a> KDD 2017: 325-334"
-- "[PVLDB] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis:
+- "[VLDB] Shuo Shang, Lisi Chen, Zhewei Wei, Christian S. Jensen, Kai Zheng, Panos Kalnis:
 Trajectory Similarity Join in Spatial Networks. PVLDB 10(11): 1178-1189 (2017)"
 - "[WSDM] Huiwen Liu, Jiajie Xu, Kai Zheng*, Chengfei Liu, Lan Du, Xian Wu:
 Semantic-aware Query Processing for Activity Trajectories. WSDM 2017: 283-292"
