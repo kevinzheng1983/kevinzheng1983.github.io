@@ -1,3 +1,5 @@
+- "[VLDB] David Campos, Tung Kieu, Chenjuan Guo, Feiteng Huang, Kai Zheng, Bin Yang, and Christian S. Jensen:
+  Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles. VLDB 2022, Sydney, Australia"
 - "[VLDB] Yue Cui, Kai Zheng*, Dingshan Cui, Jiandong Xie, Liwei Deng, Feiteng Huang and Xiaofang Zhou:
   <a href='paper/vldb_2022_cui.pdf'>METRO: A Generic Graph Neural Network Framework for Multivariate Time Series Forecasting.</a> VLDB 2022, Sydney, Australia (<a href='code/metro_single_s.zip'>code</a>)"
 - "[ICDM] Yunchuan Li, Yan Zhao and Kai Zheng:
