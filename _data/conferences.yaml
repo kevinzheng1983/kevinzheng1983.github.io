@@ -17,15 +17,15 @@
 - "[CIKM] Shuncheng Liu, Xu Chen, Ziniu Wu, Liwei Deng, Han Su and Kai Zheng*:
 HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic. CIKM 2022, Atlanta, USA"
 - "[CIKM] Liwei Deng, Yan Zhao, Zidan Fu, Hao Sun, Shuncheng Liu and Kai Zheng*:
- Efficient Trajectory Similarity Computation with Contrastive Learning. CIKM 2022, Atlanta, USA"
+ <a href='paper/cikm_2022_deng.pdf'>Efficient Trajectory Similarity Computation with Contrastive Learning.</a> CIKM 2022, Atlanta, USA"
 - "[CIKM] Jiaxin Liu, Liwei Deng, Hao Miao, Yan Zhao and Kai Zheng*:
-Task Assignment with Federated Preference Learning in Spatial Crowdsourcing. CIKM 2022, Atlanta, USA"
+ <a href='paper/cikm_2022_jiaxin.pdf'>Task Assignment with Federated Preference Learning in Spatial Crowdsourcing.</a> CIKM 2022, Atlanta, USA"
 - "[CIKM] Xuanlei Chen, Yan Zhao and Kai Zheng*:
-Task Publication Time Recommendation in Spatial Crowdsourcing. CIKM 2022, Atlanta, USA"
+ <a href='paper/cikm_2022_chen.pdf'>Task Publication Time Recommendation in Spatial Crowdsourcing.</a> CIKM 2022, Atlanta, USA"
 - "[CIKM] Shuncheng Liu, Xu Chen, Yan Zhao, Jin Chen, Rui Zhou and Kai Zheng*:
-Efficient Learning with Pseudo Labels for Query Cost Estimation. CIKM 2022, Atlanta, USA"
+ <a href='paper/cikm_2022_shuncheng.pdf'>Efficient Learning with Pseudo Labels for Query Cost Estimation.</a> CIKM 2022, Atlanta, USA"
 - "[CIKM] Tinghao Lai, Yan Zhao, Weizhu Qian and Kai Zheng*:
-Loyalty-based Task Assignment in Spatial Crowdsourcing. CIKM 2022, Atlanta, USA"
+ <a href='paper/cikm_2022_lai.pdf'>Loyalty-based Task Assignment in Spatial Crowdsourcing.</a> CIKM 2022, Atlanta, USA"
 - "[KDD] Jin Chen, Guanyu Ye, Yan Zhao, Shuncheng Liu, Liwei Deng, Xu Chen, Rui Zhou, Kai Zheng*:
   <a href='paper/kdd_2022_chen.pdf'>Efficient Join Order Selection Learning with Graph-based Representation.</a> SIGKDD 2022, Washington DC, USA"
 - "[KDD] Yuan Xu, Jiajie Xu, Jing Zhao, Kai Zheng, An Liu, Lei Zhao, Xiaofang Zhou:
@@ -33,7 +33,7 @@ Loyalty-based Task Assignment in Spatial Crowdsourcing. CIKM 2022, Atlanta, USA"
 - "[IJCAI] Yu Fan, Jiajie Xu, Rui Zhou, Jianxin Li, Kai Zheng, Lu Chen, Chengfei Liu:
   <a href='paper/ijcai_2022_fan.pdf'>MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation.</a> IJCAI 2022, Vienna, Austria"
 - "[ICDE] Xuanhao Chen, Yan Zhao, Kai Zheng*, Bin Yang, Christian S. Jensen:
-  Influence-aware Task Assignment in Spatial Crowdsourcing. ICDE 2022, Kuala Lumpur, Malaysia (<a href='paper/icde_2022_chen_long.pdf'>long version</a>)"
+  <a href='paper/icde_2022_chen.pdf'>Influence-aware Task Assignment in Spatial Crowdsourcing.</a> ICDE 2022, Kuala Lumpur, Malaysia (<a href='paper/icde_2022_chen_long.pdf'>long version</a>)"
 - "[ICDE] Tung Kieu, Bin Yang, Chenjuan Guo, Christian S. Jensen, Yan Zhao, Feiteng Huang, Kai Zheng:
   Robust and Explainable Autoencoders for Unsupervised Time Series Outlier Detection. ICDE 2022, Kuala Lumpur, Malaysia"
 - "[ICDE] Shuncheng Liu, Zhi Xu, Huimin Ren, Tianfu He, Boyang Han, Jie Bao, Kai Zheng*, Yu Zheng:
