@@ -9,47 +9,47 @@
 - "[TKDE] Kai Huang, Yue Cui, Qingqing Ye, Yan Zhao, Xi Zhao, Yao Tian, Kai Zheng, Haibo Hu, Xiaofang Zhou:
   TED+: Towards Discovering Top-k Edge-Diversified Patterns in a Graph Database. IEEE Transactions on Knowledge and Data Engineering (Accepted in August 2023)"
 - "[VLDBJ] Yan Zhao, Kai Zheng*, Ziwei Wang, Liwei Deng, Bin Yang, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou:
-  <a href='paper/vldbj_2023_zhao.pdf'>Coalition-based Task Assignment with Priority-aware Fairness in Spatial Crowdsourcing.</a> VLDB Journal (Accepted in June 2023)"
+  <a href='paper/vldbj_2023_zhao.pdf'>Coalition-based Task Assignment with Priority-aware Fairness in Spatial Crowdsourcing.</a> VLDB Journal, 33(1): 163-184 (2024)"
 - "[TOIS] Yan Zhao, Liwei Deng, Kai Zheng*:
-  <a href='paper/tois_2023_zhao.pdf'>AdaTaskRec: An Adaptive Task Recommendation Framework in Spatial Crowdsourcing.</a> ACM Transactions on Information Systems (Accepted in April 2023)"
+  <a href='paper/tois_2023_zhao.pdf'>AdaTaskRec: An Adaptive Task Recommendation Framework in Spatial Crowdsourcing.</a> ACM Transactions on Information Systems, 41(4): 95:1-95:32 (2023)"
 - "[TKDE] Yan Zhao, Jiaxin Liu, Yunchuan Li, Dalin Zhang, Christian S. Jensen, Kai Zheng*:
-  <a href='paper/tkde_2023_zhao_a.pdf'>Preference-aware Group Task Assignment in Spatial Crowdsourcing: Effectiveness and Efficiency.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in April 2023)"
+  <a href='paper/tkde_2023_zhao_a.pdf'>Preference-aware Group Task Assignment in Spatial Crowdsourcing: Effectiveness and Efficiency.</a> IEEE Transactions on Knowledge and Data Engineering, 35(10): 10722-10734 (2023)"
 - "[TKDE] Yan Zhao, Tinghao Lai, Ziwei Wang, Kaixuan Chen, Huan Li, and Kai Zheng*:
-  <a href='paper/tkde_2023_zhao.pdf'>Worker-Churn-based Task Assignment with Context-LSTM in Spatial Crowdsourcing.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Feb 2023)"
+  <a href='paper/tkde_2023_zhao.pdf'>Worker-Churn-based Task Assignment with Context-LSTM in Spatial Crowdsourcing.</a> IEEE Transactions on Knowledge and Data Engineering, 35(9): 9783-9796 (2023)"
 - "[TKDE] Yan Zhao, Kai Zheng*, Yunchuan Li, Bin Yang, Torben Bach Pedersen, Rui Mao, Christian S. Jensen, Xiaofang Zhou:
-  <a href='paper/tkde_2022_zhao.pdf'>Profit Optimization in Spatial Crowdsourcing: Effectiveness and Efficiency.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Nov 2022)"
+  <a href='paper/tkde_2022_zhao.pdf'>Profit Optimization in Spatial Crowdsourcing: Effectiveness and Efficiency.</a> IEEE Transactions on Knowledge and Data Engineering, 35(8): 8386-8401 (2023)"
 - "[TKDE] Defu Lian, Zhihao Zhu, Kai Zheng, Yong Ge, Xing Xie, and Enhong Chen:
-  Network Representation Lightening from Hashing to Quantization. IEEE Transactions on Knowledge and Data Engineering (Accepted in Jan 2022)"
+  Network Representation Lightening from Hashing to Quantization. IEEE Transactions on Knowledge and Data Engineering, 35(5): 5119-5131 (2023)"
 - "[TKDE] Mubashir Imran, Hongzhi Yin, Tong Chen, Zi Huang, Kai Zheng:
-  DeHIN: A Decentralized Framework for Embedding Large-scale Heterogeneous Information Networks. IEEE Transactions on Knowledge and Data Engineering (Accepted in Jan 2022)"
+  DeHIN: A Decentralized Framework for Embedding Large-scale Heterogeneous Information Networks. IEEE Transactions on Knowledge and Data Engineering, 35(4): 3645-3657 (2023)"
 - "[TKDE] Pengfei Ding, Guanfeng Liu, Yan Wang, Kai Zheng and Xiaofang Zhou:
-  A-MCTS: Adaptive Monte Carlo Tree Search for Temporal Path Discovery. IEEE Transactions on Knowledge and Data Engineering (Accepted in October 2021)"
+  A-MCTS: Adaptive Monte Carlo Tree Search for Temporal Path Discovery. IEEE Transactions on Knowledge and Data Engineering, 35(3): 2243-2257 (2023)"
 - "[TKDE] Bolong Zheng, Qi Hu, Lingfeng Ming, Jilin Hu, Lu Chen, Kai Zheng*, Christian S. Jensen:
-  <a href='paper/tkde_2021_zheng.pdf'>SOUP: Spatial-Temporal Demand Forecasting and Competitive Supply.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in August 2021)"
+  <a href='paper/tkde_2021_zheng.pdf'>SOUP: Spatial-Temporal Demand Forecasting and Competitive Supply.</a> IEEE Transactions on Knowledge and Data Engineering, 35(2): 2034-2047 (2023)"
 - "[TKDE] Junhua Fang, Rong Zhang, Yan Zhao, Kai Zheng*, Xiaofang Zhou, Aoying Zhou:
   <a href='paper/tkde_2019_fang.pdf'>A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System.</a> IEEE Transactions on Knowledge and Data Engineering 33(5): 1861-1876 (2021)"
 - "[TOIS] Yue Cui, Hao Sun, Yan Zhao, Hongzhi Yin, Kai Zheng*:
-  <a href='paper/tois_2021_cui.pdf'>Sequential-knowledge-aware Next POI Recommendation: A Meta-learning Approach.</a> ACM Transactions on Information Systems (Accepted in April 2021)"
+  <a href='paper/tois_2021_cui.pdf'>Sequential-knowledge-aware Next POI Recommendation: A Meta-learning Approach.</a> ACM Transactions on Information Systems, 40(2): 23:1-23:22 (2022)"
 - "[TKDE] Defu Lian, Jin Chen, Kai Zheng*, Enhong Chen, Xiaofang Zhou:
-  <a href='paper/tkde_2021_chenjin.pdf'>Ranking-based Implicit Regularization for One-Class Collaborative Filtering.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in March 2021)"
+  <a href='paper/tkde_2021_chenjin.pdf'>Ranking-based Implicit Regularization for One-Class Collaborative Filtering.</a> IEEE Transactions on Knowledge and Data Engineering, 34(12): 5951-5963 (2022)"
 - "[TOIS] Lei Guo, Hongzhi Yin, Tong Chen, Xiangliang Zhang, Kai Zheng:
-  Hierarchical Hyperedge Embedding-based Representation Learning for Group Recommendation. ACM Transactions on Information Systems (Accepted in March 2021)"
+  Hierarchical Hyperedge Embedding-based Representation Learning for Group Recommendation. ACM Transactions on Information Systems, 40(1): 3:1-3:27 (2022)"
 - "[TKDE] Pengpeng Zhao, Chengfeng Xu, Yanchi Liu, Victor Sheng, Kai Zheng, Hui Xiong, Xiaofang Zhou:
   <a href='paper/tkde_2021_pengpeng.pdf'>Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation.</a> IEEE Transactions on Knowledge and Data Engineering 33(4):1708-1721 (2021)"
 - "[TKDE] Xuanhao Chen, Yan Zhao, Guanfeng Liu, Rui Sun, Xiaofang Zhou, Kai Zheng*:
-  <a href='paper/tkde_2021_chen.pdf'>Efficient Similarity-aware Influence Maximization in Geo-social Network.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in December 2020)"
+  <a href='paper/tkde_2021_chen.pdf'>Efficient Similarity-aware Influence Maximization in Geo-social Network.</a> IEEE Transactions on Knowledge and Data Engineering, 34(10): 4767-4780 (2022)"
 - "[IS] Jin Chen, Defu Lian, Kai Zheng:
   <a href='paper/is_2020_chen.pdf'>Collaborative Filtering With Ranking-Based Priors on Unknown Ratings.</a> IEEE Intelligent Systems 35(5): 38-49 (2020)"
 - "[TKDE] Hongzhi Yin, Qinyong Wang, Kai Zheng, Zhixu Li, Xiaofang Zhou:
-  Overcoming Data Sparsity in Group Recommendation. IEEE Transactions on Knowledge and Data Engineering (Accepted in September 2020)"
+  Overcoming Data Sparsity in Group Recommendation. IEEE Transactions on Knowledge and Data Engineering, 34(7): 3447-3460 (2022)"
 - "[TKDE] Yan Zhao, Kai Zheng*, Hongzhi Yin, Guanfeng Liu, Junhua Fang, Xiaofang Zhou:
-  <a href='paper/tkde_2020_zhao.pdf'>Preference-aware Task Assignment in Spatial Crowdsourcing: from Individuals to Groups.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in August 2020)"
+  <a href='paper/tkde_2020_zhao.pdf'>Preference-aware Task Assignment in Spatial Crowdsourcing: from Individuals to Groups.</a> IEEE Transactions on Knowledge and Data Engineering, 34(7): 3461-3477 (2022)"
 - "[TKDE] Meng Chen, Yan Zhao, Xiaohui Yu, Kai Zheng*:
-  <a href='paper/tkde_2020_chen.pdf'>Modeling Spatial Trajectories with Attribute Representation Learning.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Jun 2020)"
+  <a href='paper/tkde_2020_chen.pdf'>Modeling Spatial Trajectories with Attribute Representation Learning.</a> IEEE Transactions on Knowledge and Data Engineering, 34(4): 1902-1914 (2022)"
 - "[TKDE] Bin Wu, Xiangnan He, Yun Chen, Liqiang Nie, Kai Zheng, Yangdong Ye:
-  Modeling Product's Visual and Functional Characteristics for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering (Accepted in Apr 2020)"
+  Modeling Product's Visual and Functional Characteristics for Recommender Systems. IEEE Transactions on Knowledge and Data Engineering, 34(3): 1330-1343 (2022)"
 - "[TITS] Meng Chen, Yixuan Zuo, Xiaoyi Jia, Yang Liu, Xiaohui Yu, Kai Zheng:
-  <a href='paper/tits_2020_chen.pdf'>CEM: A Convolutional Embedding Model for Predicting Next Locations.</a> IEEE Transactions on Intelligent Transportation Systems (Accepted in March 2020)"
+  <a href='paper/tits_2020_chen.pdf'>CEM: A Convolutional Embedding Model for Predicting Next Locations.</a> IEEE Transactions on Intelligent Transportation Systems, 22(6): 3349-3358 (2021)"
 - "[TKDE] Bolong Zheng, Kai Zheng*, Christian S. Jensen, Nguyen Quoc Viet Hung, Han Su, Guohui Li, Xiaofang Zhou:
   <a href='paper/tkde_2020_zheng.pdf'>Answering Why-Not Group Spatial Keyword Queries.</a> IEEE Transactions on Knowledge and Data Engineering 32(1): 26-39 (2020)"
 - "[TKDE] Mingjun Xiao, Kai Ma, An Liu, Hui Zhao, Zhixu Li, Kai Zheng, Xiaofang Zhou:
