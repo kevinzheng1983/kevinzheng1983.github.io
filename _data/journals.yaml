@@ -1,5 +1,7 @@
 - "[TKDE] Shuncheng Liu, Xu Chen, Yan Zhao, Han Su, Xiaofang Zhou, Kai Zheng*:
-  Comfort-Aware Lane Change Planning With Exit Strategy for Autonomous Vehicle. IEEE Transactions on Knowledge and Data Engineering (Accepted in Jan 2024)"
+  <a href='paper/tkde_2024_liu.pdf'>Comfort-Aware Lane Change Planning With Exit Strategy for Autonomous Vehicle.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in Jan 2024)"
+- "[TKDE] Ruiqi Zheng, Liang Qu, Tong Chen, Kai Zheng, Yuhui Shi, and Hongzhi Yin:
+  Personalized Elastic Embedding Learning for On-Device Recommendation. IEEE Transactions on Knowledge and Data Engineering (Accepted in Jan 2024)"
 - "[TKDE] Yuchen Fang, Yanjun Qin, Haiyong Luo, Fang Zhao, and Kai Zheng*:
   <a href='paper/tkde_fang_2023.pdf'>STWave+: A Multi-Scale Efficient Spectral Graph Attention Network with Long-Term Trends for Disentangled Traffic Flow Forecasting.</a> IEEE Transactions on Knowledge and Data Engineering (Accepted in October 2023)"
 - "[TKDE] Weizhu Qian, Yan Zhao, Dalin Zhang, Bowei Chen, Kai Zheng, Xiaofang Zhou:
@@ -14,6 +16,8 @@
   <a href='paper/tois_2023_zhao.pdf'>AdaTaskRec: An Adaptive Task Recommendation Framework in Spatial Crowdsourcing.</a> ACM Transactions on Information Systems, 41(4): 95:1-95:32 (2023)"
 - "[TKDE] Yan Zhao, Jiaxin Liu, Yunchuan Li, Dalin Zhang, Christian S. Jensen, Kai Zheng*:
   <a href='paper/tkde_2023_zhao_a.pdf'>Preference-aware Group Task Assignment in Spatial Crowdsourcing: Effectiveness and Efficiency.</a> IEEE Transactions on Knowledge and Data Engineering, 35(10): 10722-10734 (2023)"
+- "[TKDE] Minrui Xu, Jiajie Xu, Rui Zhou, Jianxin Li, Kai Zheng, Pengpeng Zhao, Chengfei Liu:
+  Empowering A* Algorithm With Neuralized Variational Heuristics for Fastest Route Recommendation. IEEE Transactions on Knowledge and Data Engineering, 35(10): 10011-10023 (2023)"
 - "[TKDE] Yan Zhao, Tinghao Lai, Ziwei Wang, Kaixuan Chen, Huan Li, and Kai Zheng*:
   <a href='paper/tkde_2023_zhao.pdf'>Worker-Churn-based Task Assignment with Context-LSTM in Spatial Crowdsourcing.</a> IEEE Transactions on Knowledge and Data Engineering, 35(9): 9783-9796 (2023)"
 - "[TKDE] Yan Zhao, Kai Zheng*, Yunchuan Li, Bin Yang, Torben Bach Pedersen, Rui Mao, Christian S. Jensen, Xiaofang Zhou:
@@ -26,16 +30,18 @@
   A-MCTS: Adaptive Monte Carlo Tree Search for Temporal Path Discovery. IEEE Transactions on Knowledge and Data Engineering, 35(3): 2243-2257 (2023)"
 - "[TKDE] Bolong Zheng, Qi Hu, Lingfeng Ming, Jilin Hu, Lu Chen, Kai Zheng*, Christian S. Jensen:
   <a href='paper/tkde_2021_zheng.pdf'>SOUP: Spatial-Temporal Demand Forecasting and Competitive Supply.</a> IEEE Transactions on Knowledge and Data Engineering, 35(2): 2034-2047 (2023)"
-- "[TKDE] Junhua Fang, Rong Zhang, Yan Zhao, Kai Zheng*, Xiaofang Zhou, Aoying Zhou:
-  <a href='paper/tkde_2019_fang.pdf'>A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System.</a> IEEE Transactions on Knowledge and Data Engineering 33(5): 1861-1876 (2021)"
 - "[TOIS] Yue Cui, Hao Sun, Yan Zhao, Hongzhi Yin, Kai Zheng*:
   <a href='paper/tois_2021_cui.pdf'>Sequential-knowledge-aware Next POI Recommendation: A Meta-learning Approach.</a> ACM Transactions on Information Systems, 40(2): 23:1-23:22 (2022)"
+- "[TKDE] Peng Han, Shuo Shang, Aixin Sun, Peilin Zhao, Kai Zheng, Xiangliang Zhang:
+  Point-of-Interest Recommendation With Global and Local Context. IEEE Transactions on Knowledge and Data Engineering, 34(11): 5484-5495 (2022)"
 - "[TKDE] Defu Lian, Jin Chen, Kai Zheng*, Enhong Chen, Xiaofang Zhou:
   <a href='paper/tkde_2021_chenjin.pdf'>Ranking-based Implicit Regularization for One-Class Collaborative Filtering.</a> IEEE Transactions on Knowledge and Data Engineering, 34(12): 5951-5963 (2022)"
 - "[TOIS] Lei Guo, Hongzhi Yin, Tong Chen, Xiangliang Zhang, Kai Zheng:
   Hierarchical Hyperedge Embedding-based Representation Learning for Group Recommendation. ACM Transactions on Information Systems, 40(1): 3:1-3:27 (2022)"
 - "[TKDE] Pengpeng Zhao, Chengfeng Xu, Yanchi Liu, Victor Sheng, Kai Zheng, Hui Xiong, Xiaofang Zhou:
   <a href='paper/tkde_2021_pengpeng.pdf'>Photo2Trip: Exploiting Visual Contents in Geo-tagged Photos for Personalized Tour Recommendation.</a> IEEE Transactions on Knowledge and Data Engineering 33(4):1708-1721 (2021)"
+- "[TKDE] Junhua Fang, Rong Zhang, Yan Zhao, Kai Zheng*, Xiaofang Zhou, Aoying Zhou:
+  <a href='paper/tkde_2019_fang.pdf'>A-DSP: An Adaptive Join Algorithm for Dynamic Data Stream on Cloud System.</a> IEEE Transactions on Knowledge and Data Engineering 33(5): 1861-1876 (2021)"
 - "[TKDE] Xuanhao Chen, Yan Zhao, Guanfeng Liu, Rui Sun, Xiaofang Zhou, Kai Zheng*:
   <a href='paper/tkde_2021_chen.pdf'>Efficient Similarity-aware Influence Maximization in Geo-social Network.</a> IEEE Transactions on Knowledge and Data Engineering, 34(10): 4767-4780 (2022)"
 - "[IS] Jin Chen, Defu Lian, Kai Zheng:
