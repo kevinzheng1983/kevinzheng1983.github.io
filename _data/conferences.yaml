@@ -11,7 +11,7 @@
 - "[SIGMOD] Xu Chen, Shuncheng Liu, Tong Yuan, Tao Ye, Kai Zeng, Han Su, Kai Zheng*:
   Optimizing Block Skipping for High-Dimensional Data with Learned Adaptive Curve. SIGMOD 2025, Berlin, Germany"
 - "[VLDB] Liwei Deng, Tianfu Wang, Yan Zhao, Kai Zheng*:
-  MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. VLDB 2025, London UK"
+  <a href='paper/vldb_2025_deng.pdf'>MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management.</a> VLDB 2025, London UK"
 - "[VLDB] Hao Miao, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen:
   Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching. VLDB 2025, London, UK"
 - "[CIKM] Haitian Chen, Xu Chen, Zibo Liang, Xiushu Feng, Jiandong Xie, Han Su, Kai Zheng*:
