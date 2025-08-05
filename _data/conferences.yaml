@@ -1,4 +1,8 @@
-- "[SIGIR] 	Yuchuan Zhao, Tong Chen, Junliang Yu, Kai Zheng, Lizhen Cui, Hongzhi Yin:
+- "[CIKM] Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, Liwei Deng and Kai Zheng*:
+  Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. CIKM 2025, Seoul, Korea"
+- "[CIKM] Yupu Zhang, Lei Jia, Hao Miao, Weizhu Qian, Yan Zhao and Kai Zheng*:
+  Traffic Safety Evaluation Based on Macroscopic Traffic Features in Road Tunnels. CIKM 2025, Seoul, Korea"
+- "[SIGIR] Yuchuan Zhao, Tong Chen, Junliang Yu, Kai Zheng, Lizhen Cui, Hongzhi Yin:
   Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation. SIGIR 2025, Padova, Italy"
 - "[WWW] Ximu Zeng, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng*:
   <a href='paper/2025_www_zeng.pdf'>LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search.</a> WWW 2025, Sydney, Australia"
@@ -17,7 +21,7 @@
 - "[VLDB] Liwei Deng, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng*:
   <a href='https://arxiv.org/pdf/2411.17229'>Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search.</a> VLDB 2025, London UK"
 - "[SIGMOD] Xu Chen, Shuncheng Liu, Tong Yuan, Tao Ye, Kai Zeng, Han Su, Kai Zheng*:
-  Optimizing Block Skipping for High-Dimensional Data with Learned Adaptive Curve. SIGMOD 2025, Berlin, Germany"
+  <a href='paper/2025_sigmod_chen.pdf'>Optimizing Block Skipping for High-Dimensional Data with Learned Adaptive Curve.</a> SIGMOD 2025, Berlin, Germany"
 - "[VLDB] Liwei Deng, Tianfu Wang, Yan Zhao, Kai Zheng*:
   <a href='https://arxiv.org/pdf/2412.03038'>MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management.</a> VLDB 2025, London UK"
 - "[VLDB] Hao Miao, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen:
