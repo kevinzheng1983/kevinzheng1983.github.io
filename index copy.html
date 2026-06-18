@@ -476,28 +476,6 @@ title: Kai Zheng's Homepage
       color: var(--blue-deep);
     }
 
-    .publication-toggle {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 42px;
-      margin-top: 16px;
-      padding: 9px 16px;
-      border: 1px solid var(--blue);
-      border-radius: 6px;
-      background: var(--surface);
-      color: var(--blue-deep);
-      font: inherit;
-      font-size: 14px;
-      font-weight: 750;
-      cursor: pointer;
-    }
-
-    .publication-toggle:hover {
-      background: var(--blue-deep);
-      color: #ffffff;
-    }
-
     .conference-grid {
       display: grid;
       grid-template-columns: 1fr;
@@ -630,25 +608,6 @@ title: Kai Zheng's Homepage
       document.getElementById("english_bio").hidden = true;
       document.getElementById("english_btn").classList.remove("active");
       document.getElementById("chinese_btn").classList.add("active");
-    }
-
-    function togglePublications(button, listId) {
-      const list = document.getElementById(listId);
-      const extraItems = list.querySelectorAll(".publication-extra");
-      const isExpanding = button.getAttribute("aria-expanded") !== "true";
-
-      extraItems.forEach(function (item) {
-        item.hidden = !isExpanding;
-      });
-
-      button.setAttribute("aria-expanded", String(isExpanding));
-      button.querySelector(".toggle-label").textContent = isExpanding
-        ? button.dataset.collapseLabel
-        : button.dataset.expandLabel;
-
-      if (!isExpanding) {
-        list.closest(".panel").scrollIntoView({ behavior: "smooth", block: "start" });
-      }
     }
   </script>
 </head>
@@ -789,38 +748,20 @@ title: Kai Zheng's Homepage
           <div class="conference-grid">
             <div class="panel">
               <h3>Selected Journal Papers (* Corresponding author)</h3>
-              <ol id="journal-publications" class="publication-list">
+              <ol class="publication-list">
                 {% for item in site.data.journals %}
-                <li{% if forloop.index > 10 %} class="publication-extra" hidden{% endif %}>{{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>" | replace: "[", "<b>[" | replace: "]", "]</b>" }}</li>
+                <li>{{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>" | replace: "[", "<b>[" | replace: "]", "]</b>" }}</li>
                 {% endfor %}
               </ol>
-              {% if site.data.journals.size > 10 %}
-              <button class="publication-toggle" type="button"
-                aria-expanded="false" aria-controls="journal-publications"
-                data-expand-label="Show all {{ site.data.journals.size }} journal papers"
-                data-collapse-label="Show only the latest 10 journal papers"
-                onclick="togglePublications(this, 'journal-publications')">
-                <span class="toggle-label">Show all {{ site.data.journals.size }} journal papers</span>
-              </button>
-              {% endif %}
             </div>
 
             <div class="panel">
               <h3>Selected Conference Papers (* Corresponding author)</h3>
-              <ol id="conference-publications" class="publication-list">
+              <ol class="publication-list">
                 {% for item in site.data.conferences %}
-                <li{% if forloop.index > 10 %} class="publication-extra" hidden{% endif %}>{{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>" | replace: "[", "<b>[" | replace: "]", "]</b>" }}</li>
+                <li>{{ item | replace: "Kai Zheng", "<b>Kai Zheng</b>" | replace: "[", "<b>[" | replace: "]", "]</b>" }}</li>
                 {% endfor %}
               </ol>
-              {% if site.data.conferences.size > 10 %}
-              <button class="publication-toggle" type="button"
-                aria-expanded="false" aria-controls="conference-publications"
-                data-expand-label="Show all {{ site.data.conferences.size }} conference papers"
-                data-collapse-label="Show only the latest 10 conference papers"
-                onclick="togglePublications(this, 'conference-publications')">
-                <span class="toggle-label">Show all {{ site.data.conferences.size }} conference papers</span>
-              </button>
-              {% endif %}
             </div>
           </div>
         </section>
