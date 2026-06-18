@@ -650,41 +650,6 @@ title: Kai Zheng's Homepage
         list.closest(".panel").scrollIntoView({ behavior: "smooth", block: "start" });
       }
     }
-
-    async function loadScholarMetrics() {
-      try {
-        const response = await fetch("{{ '/scholar-metrics.json' | relative_url }}", {
-          cache: "no-store"
-        });
-        if (!response.ok) {
-          throw new Error("Scholar metrics request failed");
-        }
-
-        const metrics = await response.json();
-        if (!Number.isFinite(metrics.citations) || !Number.isFinite(metrics.h_index)) {
-          throw new Error("Scholar metrics response is invalid");
-        }
-
-        const citations = document.getElementById("scholar-citations");
-        const hIndex = document.getElementById("scholar-h-index");
-        citations.textContent = new Intl.NumberFormat("en-US").format(metrics.citations);
-        hIndex.textContent = metrics.h_index;
-
-        if (metrics.updated_at) {
-          const updated = new Date(metrics.updated_at).toLocaleDateString("en-US", {
-            year: "numeric",
-            month: "short",
-            day: "numeric"
-          });
-          citations.parentElement.title = "Google Scholar metrics updated " + updated;
-          hIndex.parentElement.title = "Google Scholar metrics updated " + updated;
-        }
-      } catch (error) {
-        console.warn("Using fallback Google Scholar metrics.", error);
-      }
-    }
-
-    document.addEventListener("DOMContentLoaded", loadScholarMetrics);
   </script>
 </head>
 <body>
@@ -755,11 +720,11 @@ title: Kai Zheng's Homepage
             <span>Peer-reviewed papers</span>
           </div>
           <div class="metric">
-            <strong id="scholar-citations">22000+</strong>
+            <strong>22000+</strong>
             <span>Google Scholar citations</span>
           </div>
           <div class="metric">
-            <strong id="scholar-h-index">75</strong>
+            <strong>75</strong>
             <span>H-index</span>
           </div>
           <div class="metric">
