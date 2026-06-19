@@ -23,4 +23,3 @@ Build without starting a server:
 ```bash
 bin/jekyll build
 ```
-hello
