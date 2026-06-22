@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 import json
+import os
 import re
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 
 PROFILE_URL = "https://scholar.google.com.au/citations?user=EM-l50cAAAAJ&hl=en"
+AUTHOR_ID = "EM-l50cAAAAJ"
+SERPAPI_URL = "https://serpapi.com/search.json"
 OUTPUT_PATH = Path(__file__).resolve().parents[2] / "scholar-metrics.json"
 
 
@@ -69,7 +73,41 @@ def fetch_profile():
         return response.read().decode("utf-8", errors="replace")
 
 
-def main():
+def fetch_from_serpapi(api_key):
+    query = urlencode(
+        {
+            "engine": "google_scholar_author",
+            "author_id": AUTHOR_ID,
+            "hl": "en",
+            "api_key": api_key,
+        }
+    )
+    request = Request(
+        f"{SERPAPI_URL}?{query}",
+        headers={"User-Agent": "Kai-Zheng-academic-homepage/1.0"},
+    )
+    with urlopen(request, timeout=30) as response:
+        data = json.load(response)
+
+    if data.get("error"):
+        raise RuntimeError(f"SerpApi error: {data['error']}")
+
+    table = data.get("cited_by", {}).get("table", [])
+    citations = None
+    h_index = None
+    for row in table:
+        if "citations" in row:
+            citations = row["citations"].get("all")
+        elif "h_index" in row:
+            h_index = row["h_index"].get("all")
+
+    if citations is None or h_index is None:
+        raise RuntimeError("SerpApi response did not contain citations and h-index metrics.")
+
+    return int(citations), int(h_index)
+
+
+def fetch_directly():
     parser = ScholarStatsParser()
     parser.feed(fetch_profile())
 
@@ -79,6 +117,20 @@ def main():
         raise RuntimeError(
             "Google Scholar metrics were not found; the response may be rate-limited or a CAPTCHA page."
         )
+
+    return citations, h_index
+
+
+def main():
+    api_key = os.environ.get("SERPAPI_KEY")
+    if api_key:
+        citations, h_index = fetch_from_serpapi(api_key)
+    elif os.environ.get("GITHUB_ACTIONS") == "true":
+        raise RuntimeError(
+            "SERPAPI_KEY is required in GitHub Actions because Google Scholar blocks hosted runner IPs."
+        )
+    else:
+        citations, h_index = fetch_directly()
 
     metrics = {
         "citations": citations,
